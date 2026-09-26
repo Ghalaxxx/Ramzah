@@ -1,0 +1,31 @@
+{
+  "prediction": "صداع",
+  "confidence": 0.9998778104782104,
+  "top_k": [
+    {
+      "word": "صداع",
+      "class_id": "0115",
+      "confidence": 0.9998778104782104
+    },
+    {
+      "word": "دواء",
+      "class_id": "0132",
+      "confidence": 0.00012222214718349278
+    },
+    {
+      "word": "أشعة",
+      "class_id": "0110",
+      "confidence": 1.3409578336620598e-08
+    }
+  ],
+  "needs_review": true,
+  "confidence_kind": "temperature_scaled_softmax",
+  "quality": {
+    "decoded_frames": 15,
+    "frames": 15,
+    "fps": 30.0,
+    "pose_fraction": 1.0,
+    "hand_fraction": 1.0
+  },
+  "source_note": "Class 0001 from downloaded KArSL frames, remuxed at assumed 30 FPS; outside selected 12 classes"
+}

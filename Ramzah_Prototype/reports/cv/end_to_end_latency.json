@@ -1,0 +1,91 @@
+{
+  "scope": "Warm process, full OpenCV decode + MediaPipe + classifier; five real signer-03 clips",
+  "median_seconds": 1.9962450999300927,
+  "samples": [
+    {
+      "video": "data/cv/raw/03/0088/03_03_0088_(15_12_16_17_22_23)_c.mp4",
+      "reference_class": "0088",
+      "reference_gloss": "قلب",
+      "prediction": "قلب",
+      "correct": true,
+      "confidence": 1.0,
+      "needs_review": false,
+      "seconds": 2.5446267999941483,
+      "quality": {
+        "decoded_frames": 47,
+        "frames": 32,
+        "fps": 30.0,
+        "pose_fraction": 1.0,
+        "hand_fraction": 0.71875
+      }
+    },
+    {
+      "video": "data/cv/raw/03/0100/03_03_0100_(22_12_16_10_34_44)_c.mp4",
+      "reference_class": "0100",
+      "reference_gloss": "صيدلية",
+      "prediction": "صيدلية",
+      "correct": true,
+      "confidence": 1.0,
+      "needs_review": false,
+      "seconds": 1.4813473999965936,
+      "quality": {
+        "decoded_frames": 43,
+        "frames": 32,
+        "fps": 30.0,
+        "pose_fraction": 1.0,
+        "hand_fraction": 1.0
+      }
+    },
+    {
+      "video": "data/cv/raw/03/0103/03_03_0103_(22_12_16_10_44_51)_c.mp4",
+      "reference_class": "0103",
+      "reference_gloss": "فحص النظر",
+      "prediction": "فحص النظر",
+      "correct": true,
+      "confidence": 1.0,
+      "needs_review": false,
+      "seconds": 1.7082958000246435,
+      "quality": {
+        "decoded_frames": 64,
+        "frames": 32,
+        "fps": 30.0,
+        "pose_fraction": 1.0,
+        "hand_fraction": 1.0
+      }
+    },
+    {
+      "video": "data/cv/raw/03/0110/03_03_0110_(18_12_16_18_10_27)_c.mp4",
+      "reference_class": "0110",
+      "reference_gloss": "أشعة",
+      "prediction": "أشعة",
+      "correct": true,
+      "confidence": 1.0,
+      "needs_review": false,
+      "seconds": 1.9962450999300927,
+      "quality": {
+        "decoded_frames": 101,
+        "frames": 32,
+        "fps": 30.0,
+        "pose_fraction": 1.0,
+        "hand_fraction": 1.0
+      }
+    },
+    {
+      "video": "data/cv/raw/03/0116/03_03_0116_(22_12_16_16_39_54)_c.mp4",
+      "reference_class": "0116",
+      "reference_gloss": "ألم",
+      "prediction": "ألم",
+      "correct": true,
+      "confidence": 1.0,
+      "needs_review": false,
+      "seconds": 2.4645261999685317,
+      "quality": {
+        "decoded_frames": 34,
+        "frames": 32,
+        "fps": 30.0,
+        "pose_fraction": 1.0,
+        "hand_fraction": 1.0
+      }
+    }
+  ]
+}

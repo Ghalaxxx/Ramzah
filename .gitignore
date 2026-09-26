@@ -1,0 +1,6 @@
+
+# Excluded: exceeds GitHub's 100MB per-file limit — needs Git LFS or external hosting
+Ramzah_Prototype/checkpoints/tts/mms-ara/model.safetensors
+Ramzah_Prototype/checkpoints/nlp/contextual_v3/model.safetensors
+node_modules/
+.next/

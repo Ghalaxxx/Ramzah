@@ -1,0 +1,4053 @@
+{
+  "summary": {
+    "train": {
+      "n": 144,
+      "accuracy": 0.1736111111111111,
+      "top3_accuracy": 0.2847222222222222
+    },
+    "validation": {
+      "n": 48,
+      "accuracy": 0.14583333333333334,
+      "top3_accuracy": 0.22916666666666666
+    },
+    "test": {
+      "n": 96,
+      "accuracy": 0.15625,
+      "top3_accuracy": 0.25
+    }
+  },
+  "predictions": [
+    {
+      "path": "data/cv/raw/01/0088/03_01_0088_(01_12_16_16_47_36)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0088",
+      "top3": [
+        "0494",
+        "0088",
+        "0067"
+      ],
+      "confidence": 0.3767246603965759,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0088/03_01_0088_(01_12_16_16_48_01)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0088",
+      "top3": [
+        "0494",
+        "0088",
+        "0061"
+      ],
+      "confidence": 0.349161297082901,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0088/03_01_0088_(01_12_16_16_48_06)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0088",
+      "top3": [
+        "0494",
+        "0088",
+        "0061"
+      ],
+      "confidence": 0.47501084208488464,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0088/03_01_0088_(01_12_16_16_48_43)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0088",
+      "top3": [
+        "0088",
+        "0494",
+        "0061"
+      ],
+      "confidence": 0.278006374835968,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0088/03_01_0088_(01_12_16_16_48_48)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0088",
+      "top3": [
+        "0494",
+        "0088",
+        "0061"
+      ],
+      "confidence": 0.35275834798812866,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0088/03_01_0088_(01_12_16_16_49_10)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0088",
+      "top3": [
+        "0061",
+        "0067",
+        "0494"
+      ],
+      "confidence": 0.2643136978149414,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0088/03_01_0088_(24_11_16_16_42_33)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0088",
+      "top3": [
+        "0061",
+        "0494",
+        "0067"
+      ],
+      "confidence": 0.36081379652023315,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0088/03_01_0088_(24_11_16_16_43_22)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0088",
+      "top3": [
+        "0494",
+        "0061",
+        "0088"
+      ],
+      "confidence": 0.6589463949203491,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0092/03_01_0092_(01_12_16_17_23_22)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0092",
+      "top3": [
+        "0260",
+        "0259",
+        "0403"
+      ],
+      "confidence": 0.7339663505554199,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0092/03_01_0092_(01_12_16_17_23_33)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0092",
+      "top3": [
+        "0260",
+        "0259",
+        "0427"
+      ],
+      "confidence": 0.8376867175102234,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0092/03_01_0092_(01_12_16_17_23_41)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0092",
+      "top3": [
+        "0260",
+        "0259",
+        "0427"
+      ],
+      "confidence": 0.974917471408844,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0092/03_01_0092_(24_11_16_17_18_42)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0092",
+      "top3": [
+        "0496",
+        "0260",
+        "0259"
+      ],
+      "confidence": 0.9837032556533813,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0092/03_01_0092_(24_11_16_17_18_58)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0092",
+      "top3": [
+        "0496",
+        "0092",
+        "0489"
+      ],
+      "confidence": 0.6846546530723572,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0092/03_01_0092_(24_11_16_17_19_13)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0092",
+      "top3": [
+        "0092",
+        "0496",
+        "0100"
+      ],
+      "confidence": 0.8779513239860535,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0092/03_01_0092_(24_11_16_17_19_29)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0092",
+      "top3": [
+        "0496",
+        "0260",
+        "0092"
+      ],
+      "confidence": 0.9934569001197815,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0092/03_01_0092_(24_11_16_17_19_35)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0092",
+      "top3": [
+        "0496",
+        "0260",
+        "0259"
+      ],
+      "confidence": 0.9631295800209045,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0100/03_01_0100_(01_12_16_17_45_57)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0461",
+        "0300"
+      ],
+      "confidence": 0.8738155961036682,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0100/03_01_0100_(01_12_16_17_46_00)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0100",
+      "top3": [
+        "0461",
+        "0100",
+        "0300"
+      ],
+      "confidence": 0.5933672785758972,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0100/03_01_0100_(01_12_16_17_46_29)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0461",
+        "0300"
+      ],
+      "confidence": 0.8592900633811951,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0100/03_01_0100_(01_12_16_17_46_38)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0461",
+        "0300"
+      ],
+      "confidence": 0.9650036692619324,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0100/03_01_0100_(01_12_16_17_47_12)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0461",
+        "0300"
+      ],
+      "confidence": 0.9757541418075562,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0100/03_01_0100_(24_11_16_17_59_09)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0461",
+        "0201"
+      ],
+      "confidence": 0.8040528893470764,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0100/03_01_0100_(24_11_16_18_00_08)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0461",
+        "0300"
+      ],
+      "confidence": 0.7751907706260681,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0100/03_01_0100_(24_11_16_18_00_17)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0461",
+        "0300"
+      ],
+      "confidence": 0.650488018989563,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0101/03_01_0101_(04_12_16_14_33_57)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0101",
+      "top3": [
+        "0481",
+        "0100",
+        "0502"
+      ],
+      "confidence": 0.4619857966899872,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0101/03_01_0101_(04_12_16_14_34_20)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0101",
+      "top3": [
+        "0241",
+        "0276",
+        "0221"
+      ],
+      "confidence": 0.9054639935493469,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0101/03_01_0101_(04_12_16_14_35_31)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0101",
+      "top3": [
+        "0502",
+        "0131",
+        "0481"
+      ],
+      "confidence": 0.9178305864334106,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0101/03_01_0101_(04_12_16_14_35_43)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0101",
+      "top3": [
+        "0131",
+        "0100",
+        "0345"
+      ],
+      "confidence": 0.5755327343940735,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0101/03_01_0101_(24_11_16_18_04_28)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0101",
+      "top3": [
+        "0170",
+        "0108",
+        "0241"
+      ],
+      "confidence": 0.41528555750846863,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0101/03_01_0101_(24_11_16_18_04_33)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0101",
+      "top3": [
+        "0170",
+        "0241",
+        "0363"
+      ],
+      "confidence": 0.308666467666626,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0101/03_01_0101_(24_11_16_18_04_54)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0101",
+      "top3": [
+        "0170",
+        "0185",
+        "0241"
+      ],
+      "confidence": 0.2784215211868286,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0101/03_01_0101_(24_11_16_18_05_31)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0101",
+      "top3": [
+        "0241",
+        "0502",
+        "0363"
+      ],
+      "confidence": 0.6303490400314331,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0103/03_01_0103_(04_12_16_14_41_16)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0264",
+        "0488"
+      ],
+      "confidence": 0.716127336025238,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0103/03_01_0103_(04_12_16_14_42_42)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0103",
+      "top3": [
+        "0006",
+        "0103",
+        "0309"
+      ],
+      "confidence": 0.608025074005127,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0103/03_01_0103_(04_12_16_14_42_58)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0006",
+        "0330"
+      ],
+      "confidence": 0.9197842478752136,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0103/03_01_0103_(04_12_16_14_43_03)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0006",
+        "0330"
+      ],
+      "confidence": 0.8864473104476929,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0103/03_01_0103_(24_11_16_18_12_21)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0289",
+        "0365"
+      ],
+      "confidence": 0.3584078848361969,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0103/03_01_0103_(24_11_16_18_12_26)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0403",
+        "0289"
+      ],
+      "confidence": 0.6236503720283508,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0103/03_01_0103_(24_11_16_18_13_03)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0379",
+        "0374"
+      ],
+      "confidence": 0.2275586724281311,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0103/03_01_0103_(24_11_16_18_13_59)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0103",
+      "top3": [
+        "0169",
+        "0103",
+        "0289"
+      ],
+      "confidence": 0.19249482452869415,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0108/03_01_0108_(04_12_16_15_28_02)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0108",
+      "top3": [
+        "0313",
+        "0170",
+        "0007"
+      ],
+      "confidence": 0.1904202401638031,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0108/03_01_0108_(04_12_16_15_29_28)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0108",
+      "top3": [
+        "0313",
+        "0370",
+        "0100"
+      ],
+      "confidence": 0.45335060358047485,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0108/03_01_0108_(04_12_16_15_29_59)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0108",
+      "top3": [
+        "0108",
+        "0170",
+        "0062"
+      ],
+      "confidence": 0.1874430775642395,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0108/03_01_0108_(06_12_16_16_30_49)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0108",
+      "top3": [
+        "0108",
+        "0170",
+        "0052"
+      ],
+      "confidence": 0.24852801859378815,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0108/03_01_0108_(06_12_16_16_31_28)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0108",
+      "top3": [
+        "0108",
+        "0313",
+        "0370"
+      ],
+      "confidence": 0.25576522946357727,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0108/03_01_0108_(06_12_16_16_31_56)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0108",
+      "top3": [
+        "0108",
+        "0313",
+        "0350"
+      ],
+      "confidence": 0.3166898488998413,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0108/03_01_0108_(06_12_16_16_32_01)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0108",
+      "top3": [
+        "0108",
+        "0313",
+        "0350"
+      ],
+      "confidence": 0.2727021872997284,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0108/03_01_0108_(06_12_16_16_32_17)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0108",
+      "top3": [
+        "0313",
+        "0370",
+        "0108"
+      ],
+      "confidence": 0.2509199380874634,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0109/03_01_0109_(04_12_16_15_32_54)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0109",
+      "top3": [
+        "0241",
+        "0450",
+        "0170"
+      ],
+      "confidence": 0.34170252084732056,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0109/03_01_0109_(04_12_16_15_34_23)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0109",
+      "top3": [
+        "0007",
+        "0052",
+        "0025"
+      ],
+      "confidence": 0.5881507992744446,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0109/03_01_0109_(04_12_16_15_34_30)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0109",
+      "top3": [
+        "0170",
+        "0241",
+        "0320"
+      ],
+      "confidence": 0.31092458963394165,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0109/03_01_0109_(06_12_16_16_33_31)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0109",
+      "top3": [
+        "0241",
+        "0247",
+        "0170"
+      ],
+      "confidence": 0.38161689043045044,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0109/03_01_0109_(06_12_16_16_33_36)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0109",
+      "top3": [
+        "0241",
+        "0502",
+        "0108"
+      ],
+      "confidence": 0.38556063175201416,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0109/03_01_0109_(06_12_16_16_34_30)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0109",
+      "top3": [
+        "0313",
+        "0502",
+        "0172"
+      ],
+      "confidence": 0.6022043824195862,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0109/03_01_0109_(06_12_16_16_34_44)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0109",
+      "top3": [
+        "0502",
+        "0313",
+        "0131"
+      ],
+      "confidence": 0.39523181319236755,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0109/03_01_0109_(06_12_16_16_35_04)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0109",
+      "top3": [
+        "0172",
+        "0313",
+        "0444"
+      ],
+      "confidence": 0.1391090303659439,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0110/03_01_0110_(04_12_16_15_37_31)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0110",
+      "top3": [
+        "0031",
+        "0081",
+        "0322"
+      ],
+      "confidence": 0.3657991290092468,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0110/03_01_0110_(04_12_16_15_39_34)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0110",
+      "top3": [
+        "0312",
+        "0081",
+        "0370"
+      ],
+      "confidence": 0.1823287010192871,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0110/03_01_0110_(06_12_16_16_36_39)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0110",
+      "top3": [
+        "0312",
+        "0322",
+        "0259"
+      ],
+      "confidence": 0.7074678540229797,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0110/03_01_0110_(06_12_16_16_36_50)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0110",
+      "top3": [
+        "0312",
+        "0322",
+        "0424"
+      ],
+      "confidence": 0.6285123825073242,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0110/03_01_0110_(06_12_16_16_37_37)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0110",
+      "top3": [
+        "0312",
+        "0322",
+        "0424"
+      ],
+      "confidence": 0.47859540581703186,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0110/03_01_0110_(06_12_16_16_38_11)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0110",
+      "top3": [
+        "0424",
+        "0020",
+        "0312"
+      ],
+      "confidence": 0.3292595446109772,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0110/03_01_0110_(06_12_16_16_38_16)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0110",
+      "top3": [
+        "0312",
+        "0424",
+        "0020"
+      ],
+      "confidence": 0.5427661538124084,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0110/03_01_0110_(06_12_16_16_38_27)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0110",
+      "top3": [
+        "0020",
+        "0424",
+        "0312"
+      ],
+      "confidence": 0.3307593762874603,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0115/03_01_0115_(04_12_16_15_58_14)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0278"
+      ],
+      "confidence": 0.7031015753746033,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0115/03_01_0115_(04_12_16_15_58_52)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0278"
+      ],
+      "confidence": 0.7892920970916748,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0115/03_01_0115_(04_12_16_15_59_23)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0278"
+      ],
+      "confidence": 0.708484947681427,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0115/03_01_0115_(04_12_16_15_59_28)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0278"
+      ],
+      "confidence": 0.6810674667358398,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0115/03_01_0115_(06_12_16_17_07_57)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0278"
+      ],
+      "confidence": 0.6045030355453491,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0115/03_01_0115_(06_12_16_17_08_04)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0278"
+      ],
+      "confidence": 0.6331906318664551,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0115/03_01_0115_(06_12_16_17_08_46)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0278"
+      ],
+      "confidence": 0.7047573328018188,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0115/03_01_0115_(06_12_16_17_08_53)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0278"
+      ],
+      "confidence": 0.8645477890968323,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0116/03_01_0116_(04_12_16_16_01_38)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0116",
+      "top3": [
+        "0195",
+        "0367",
+        "0006"
+      ],
+      "confidence": 0.4145601987838745,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0116/03_01_0116_(04_12_16_16_01_42)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0116",
+      "top3": [
+        "0195",
+        "0367",
+        "0006"
+      ],
+      "confidence": 0.49179330468177795,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0116/03_01_0116_(04_12_16_16_01_46)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0116",
+      "top3": [
+        "0195",
+        "0367",
+        "0006"
+      ],
+      "confidence": 0.49725958704948425,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0116/03_01_0116_(04_12_16_16_01_53)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0116",
+      "top3": [
+        "0195",
+        "0367",
+        "0006"
+      ],
+      "confidence": 0.4076272249221802,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0116/03_01_0116_(06_12_16_17_10_02)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0116",
+      "top3": [
+        "0357",
+        "0322",
+        "0140"
+      ],
+      "confidence": 0.3814588189125061,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0116/03_01_0116_(06_12_16_17_10_13)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0116",
+      "top3": [
+        "0322",
+        "0357",
+        "0227"
+      ],
+      "confidence": 0.4812970459461212,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0116/03_01_0116_(06_12_16_17_10_34)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0116",
+      "top3": [
+        "0357",
+        "0322",
+        "0140"
+      ],
+      "confidence": 0.4154834449291229,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0116/03_01_0116_(06_12_16_17_10_47)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0116",
+      "top3": [
+        "0357",
+        "0322",
+        "0476"
+      ],
+      "confidence": 0.47910794615745544,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0129/03_01_0129_(05_04_17_16_13_18)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0129",
+      "top3": [
+        "0162",
+        "0407",
+        "0173"
+      ],
+      "confidence": 0.9556083083152771,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0129/03_01_0129_(05_04_17_16_13_39)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0129",
+      "top3": [
+        "0162",
+        "0407",
+        "0176"
+      ],
+      "confidence": 0.7960474491119385,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0129/03_01_0129_(05_04_17_16_13_53)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0129",
+      "top3": [
+        "0162",
+        "0407",
+        "0173"
+      ],
+      "confidence": 0.7501273155212402,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0129/03_01_0129_(21_10_17_13_56_53)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0129",
+      "top3": [
+        "0287",
+        "0129",
+        "0100"
+      ],
+      "confidence": 0.8444691896438599,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/01/0129/03_01_0129_(21_10_17_13_57_05)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0129",
+      "top3": [
+        "0292",
+        "0299",
+        "0309"
+      ],
+      "confidence": 0.35361745953559875,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0129/03_01_0129_(21_10_17_13_57_13)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0129",
+      "top3": [
+        "0213",
+        "0300",
+        "0309"
+      ],
+      "confidence": 0.7916309237480164,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0129/03_01_0129_(21_10_17_13_57_18)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0129",
+      "top3": [
+        "0213",
+        "0100",
+        "0300"
+      ],
+      "confidence": 0.3783314824104309,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0129/03_01_0129_(21_10_17_13_57_21)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0129",
+      "top3": [
+        "0407",
+        "0292",
+        "0309"
+      ],
+      "confidence": 0.40482184290885925,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0132/03_01_0132_(05_04_17_16_20_03)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0132",
+      "top3": [
+        "0322",
+        "0357",
+        "0007"
+      ],
+      "confidence": 0.489119291305542,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0132/03_01_0132_(05_04_17_16_20_08)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0132",
+      "top3": [
+        "0322",
+        "0227",
+        "0007"
+      ],
+      "confidence": 0.5280018448829651,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0132/03_01_0132_(05_04_17_16_21_57)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0132",
+      "top3": [
+        "0149",
+        "0347",
+        "0410"
+      ],
+      "confidence": 0.9853109121322632,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0132/03_01_0132_(05_04_17_16_22_03)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0132",
+      "top3": [
+        "0149",
+        "0347",
+        "0447"
+      ],
+      "confidence": 0.9957898259162903,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0132/03_01_0132_(05_04_17_16_22_36)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0132",
+      "top3": [
+        "0149",
+        "0447",
+        "0449"
+      ],
+      "confidence": 0.991260826587677,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0132/03_01_0132_(05_04_17_16_22_46)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0132",
+      "top3": [
+        "0149",
+        "0449",
+        "0447"
+      ],
+      "confidence": 0.9881806373596191,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0132/03_01_0132_(05_04_17_16_22_49)_c.mp4",
+      "signer": "01",
+      "split": "train",
+      "actual": "0132",
+      "top3": [
+        "0149",
+        "0173",
+        "0449"
+      ],
+      "confidence": 0.9812451601028442,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/01/0132/03_01_0132_(21_10_17_14_02_44)_c.mp4",
+      "signer": "01",
+      "split": "validation",
+      "actual": "0132",
+      "top3": [
+        "0285",
+        "0081",
+        "0322"
+      ],
+      "confidence": 0.6556990742683411,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0088/03_02_0088_(12_12_16_16_37_54)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0088",
+      "top3": [
+        "0088",
+        "0494",
+        "0061"
+      ],
+      "confidence": 0.6587923169136047,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0088/03_02_0088_(12_12_16_16_38_04)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0088",
+      "top3": [
+        "0494",
+        "0088",
+        "0484"
+      ],
+      "confidence": 0.4421704411506653,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0088/03_02_0088_(12_12_16_16_38_17)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0088",
+      "top3": [
+        "0088",
+        "0494",
+        "0061"
+      ],
+      "confidence": 0.5650808215141296,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0088/03_02_0088_(28_11_16_15_38_12)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0088",
+      "top3": [
+        "0322",
+        "0222",
+        "0285"
+      ],
+      "confidence": 0.7243598699569702,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0088/03_02_0088_(28_11_16_15_38_24)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0088",
+      "top3": [
+        "0322",
+        "0222",
+        "0285"
+      ],
+      "confidence": 0.6313578486442566,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0088/03_02_0088_(28_11_16_15_38_38)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0088",
+      "top3": [
+        "0322",
+        "0222",
+        "0285"
+      ],
+      "confidence": 0.6146941184997559,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0088/03_02_0088_(28_11_16_15_39_09)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0088",
+      "top3": [
+        "0322",
+        "0222",
+        "0285"
+      ],
+      "confidence": 0.6080694198608398,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0088/03_02_0088_(28_11_16_15_39_11)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0088",
+      "top3": [
+        "0322",
+        "0222",
+        "0285"
+      ],
+      "confidence": 0.5934396982192993,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0092/03_02_0092_(12_12_16_16_47_18)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0092",
+      "top3": [
+        "0259",
+        "0092",
+        "0496"
+      ],
+      "confidence": 0.7043160200119019,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0092/03_02_0092_(12_12_16_16_47_37)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0092",
+      "top3": [
+        "0259",
+        "0092",
+        "0260"
+      ],
+      "confidence": 0.6595208048820496,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0092/03_02_0092_(12_12_16_16_48_20)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0092",
+      "top3": [
+        "0259",
+        "0157",
+        "0403"
+      ],
+      "confidence": 0.692932665348053,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0092/03_02_0092_(12_12_16_16_48_27)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0092",
+      "top3": [
+        "0092",
+        "0496",
+        "0157"
+      ],
+      "confidence": 0.919018030166626,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0092/03_02_0092_(28_11_16_15_51_22)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0092",
+      "top3": [
+        "0489",
+        "0403",
+        "0157"
+      ],
+      "confidence": 0.35365211963653564,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0092/03_02_0092_(28_11_16_15_51_47)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0092",
+      "top3": [
+        "0259",
+        "0260",
+        "0496"
+      ],
+      "confidence": 0.7944954633712769,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0092/03_02_0092_(28_11_16_15_52_50)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0092",
+      "top3": [
+        "0496",
+        "0092",
+        "0259"
+      ],
+      "confidence": 0.5024926066398621,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0092/03_02_0092_(28_11_16_15_52_59)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0092",
+      "top3": [
+        "0259",
+        "0489",
+        "0260"
+      ],
+      "confidence": 0.8226660490036011,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0100/03_02_0100_(12_12_16_17_23_46)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0100",
+      "top3": [
+        "0384",
+        "0345",
+        "0427"
+      ],
+      "confidence": 0.4356887936592102,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0100/03_02_0100_(12_12_16_17_24_01)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0100",
+      "top3": [
+        "0427",
+        "0345",
+        "0360"
+      ],
+      "confidence": 0.5166229009628296,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0100/03_02_0100_(12_12_16_17_25_02)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0100",
+      "top3": [
+        "0294",
+        "0071",
+        "0345"
+      ],
+      "confidence": 0.816514253616333,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0100/03_02_0100_(12_12_16_17_25_12)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0100",
+      "top3": [
+        "0294",
+        "0345",
+        "0071"
+      ],
+      "confidence": 0.44808313250541687,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0100/03_02_0100_(28_11_16_16_15_05)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0100",
+      "top3": [
+        "0294",
+        "0345",
+        "0300"
+      ],
+      "confidence": 0.538642406463623,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0100/03_02_0100_(28_11_16_16_15_15)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0311",
+        "0294"
+      ],
+      "confidence": 0.9727804660797119,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0100/03_02_0100_(28_11_16_16_15_20)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0100",
+      "top3": [
+        "0395",
+        "0311",
+        "0421"
+      ],
+      "confidence": 0.38296788930892944,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0100/03_02_0100_(28_11_16_16_16_21)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0100",
+      "top3": [
+        "0496",
+        "0100",
+        "0360"
+      ],
+      "confidence": 0.5319714546203613,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0101/03_02_0101_(12_12_16_17_26_36)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0101",
+      "top3": [
+        "0241",
+        "0170",
+        "0169"
+      ],
+      "confidence": 0.9670548439025879,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0101/03_02_0101_(12_12_16_17_27_07)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0101",
+      "top3": [
+        "0241",
+        "0502",
+        "0221"
+      ],
+      "confidence": 0.31834590435028076,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0101/03_02_0101_(12_12_16_17_27_29)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0101",
+      "top3": [
+        "0170",
+        "0248",
+        "0241"
+      ],
+      "confidence": 0.35440465807914734,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0101/03_02_0101_(28_11_16_16_18_26)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0101",
+      "top3": [
+        "0170",
+        "0363",
+        "0425"
+      ],
+      "confidence": 0.5535251498222351,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0101/03_02_0101_(28_11_16_16_18_55)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0101",
+      "top3": [
+        "0170",
+        "0241",
+        "0425"
+      ],
+      "confidence": 0.9094913601875305,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0101/03_02_0101_(28_11_16_16_19_25)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0101",
+      "top3": [
+        "0260",
+        "0169",
+        "0270"
+      ],
+      "confidence": 0.8476705551147461,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0101/03_02_0101_(28_11_16_16_19_54)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0101",
+      "top3": [
+        "0241",
+        "0170",
+        "0363"
+      ],
+      "confidence": 0.45407772064208984,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0101/03_02_0101_(28_11_16_16_20_00)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0101",
+      "top3": [
+        "0241",
+        "0363",
+        "0170"
+      ],
+      "confidence": 0.911540687084198,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0103/03_02_0103_(12_12_16_17_31_26)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0006"
+      ],
+      "confidence": 0.886290431022644,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0103/03_02_0103_(12_12_16_17_32_09)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0006"
+      ],
+      "confidence": 0.5906194448471069,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0103/03_02_0103_(12_12_16_17_32_41)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0006"
+      ],
+      "confidence": 0.4686981737613678,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0103/03_02_0103_(28_11_16_16_25_05)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0226",
+        "0010"
+      ],
+      "confidence": 0.8409727215766907,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0103/03_02_0103_(28_11_16_16_25_52)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0226",
+        "0010"
+      ],
+      "confidence": 0.8178832530975342,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0103/03_02_0103_(28_11_16_16_26_15)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0006"
+      ],
+      "confidence": 0.8759245872497559,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0103/03_02_0103_(28_11_16_16_26_20)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0226"
+      ],
+      "confidence": 0.9416021108627319,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0103/03_02_0103_(28_11_16_16_26_28)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0226"
+      ],
+      "confidence": 0.9487730264663696,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0108/03_02_0108_(14_12_16_15_59_02)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0108",
+      "top3": [
+        "0502",
+        "0170",
+        "0313"
+      ],
+      "confidence": 0.7085122466087341,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0108/03_02_0108_(19_12_16_15_35_13)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0108",
+      "top3": [
+        "0313",
+        "0100",
+        "0259"
+      ],
+      "confidence": 0.8477855920791626,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0108/03_02_0108_(19_12_16_15_35_48)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0108",
+      "top3": [
+        "0313",
+        "0170",
+        "0169"
+      ],
+      "confidence": 0.7278733849525452,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0108/03_02_0108_(19_12_16_15_36_01)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0108",
+      "top3": [
+        "0313",
+        "0170",
+        "0007"
+      ],
+      "confidence": 0.5301128625869751,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0108/03_02_0108_(19_12_16_15_36_05)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0108",
+      "top3": [
+        "0313",
+        "0170",
+        "0325"
+      ],
+      "confidence": 0.7645097970962524,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0108/03_02_0108_(19_12_16_15_36_26)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0108",
+      "top3": [
+        "0313",
+        "0170",
+        "0241"
+      ],
+      "confidence": 0.7004485130310059,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0108/03_02_0108_(19_12_16_15_36_42)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0108",
+      "top3": [
+        "0313",
+        "0170",
+        "0169"
+      ],
+      "confidence": 0.642370879650116,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0108/03_02_0108_(19_12_16_15_36_50)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0108",
+      "top3": [
+        "0170",
+        "0241",
+        "0313"
+      ],
+      "confidence": 0.6749604344367981,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0109/03_02_0109_(14_12_16_16_00_55)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0109",
+      "top3": [
+        "0169",
+        "0170",
+        "0225"
+      ],
+      "confidence": 0.2501371204853058,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0109/03_02_0109_(19_12_16_15_37_30)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0109",
+      "top3": [
+        "0170",
+        "0259",
+        "0313"
+      ],
+      "confidence": 0.6531475186347961,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0109/03_02_0109_(19_12_16_15_37_49)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0109",
+      "top3": [
+        "0313",
+        "0100",
+        "0502"
+      ],
+      "confidence": 0.27443790435791016,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0109/03_02_0109_(19_12_16_15_38_09)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0109",
+      "top3": [
+        "0169",
+        "0170",
+        "0313"
+      ],
+      "confidence": 0.34355106949806213,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0109/03_02_0109_(19_12_16_15_38_16)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0109",
+      "top3": [
+        "0313",
+        "0170",
+        "0241"
+      ],
+      "confidence": 0.27923959493637085,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0109/03_02_0109_(19_12_16_15_38_43)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0109",
+      "top3": [
+        "0007",
+        "0313",
+        "0170"
+      ],
+      "confidence": 0.167971670627594,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0109/03_02_0109_(19_12_16_15_38_51)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0109",
+      "top3": [
+        "0313",
+        "0007",
+        "0170"
+      ],
+      "confidence": 0.5311492681503296,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0109/03_02_0109_(19_12_16_15_38_59)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0109",
+      "top3": [
+        "0170",
+        "0169",
+        "0007"
+      ],
+      "confidence": 0.5097963213920593,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0110/03_02_0110_(14_12_16_16_02_23)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0110",
+      "top3": [
+        "0312",
+        "0441",
+        "0325"
+      ],
+      "confidence": 0.28072428703308105,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0110/03_02_0110_(14_12_16_16_02_32)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0110",
+      "top3": [
+        "0441",
+        "0496",
+        "0110"
+      ],
+      "confidence": 0.13453079760074615,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0110/03_02_0110_(14_12_16_16_03_36)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0110",
+      "top3": [
+        "0031",
+        "0110",
+        "0312"
+      ],
+      "confidence": 0.2020789533853531,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0110/03_02_0110_(14_12_16_16_03_45)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0110",
+      "top3": [
+        "0370",
+        "0110",
+        "0031"
+      ],
+      "confidence": 0.2161489576101303,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/02/0110/03_02_0110_(19_12_16_15_40_16)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0110",
+      "top3": [
+        "0225",
+        "0257",
+        "0260"
+      ],
+      "confidence": 0.22424814105033875,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0110/03_02_0110_(19_12_16_15_40_20)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0110",
+      "top3": [
+        "0260",
+        "0441",
+        "0225"
+      ],
+      "confidence": 0.1762540340423584,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0110/03_02_0110_(19_12_16_15_40_34)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0110",
+      "top3": [
+        "0441",
+        "0260",
+        "0259"
+      ],
+      "confidence": 0.32496824860572815,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0110/03_02_0110_(19_12_16_15_41_33)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0110",
+      "top3": [
+        "0441",
+        "0312",
+        "0031"
+      ],
+      "confidence": 0.17466607689857483,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0115/03_02_0115_(14_12_16_16_15_48)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0115",
+      "top3": [
+        "0149",
+        "0278",
+        "0146"
+      ],
+      "confidence": 0.7180604934692383,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0115/03_02_0115_(14_12_16_16_16_55)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0115",
+      "top3": [
+        "0149",
+        "0278",
+        "0009"
+      ],
+      "confidence": 0.5625908374786377,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0115/03_02_0115_(14_12_16_16_16_59)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0115",
+      "top3": [
+        "0149",
+        "0278",
+        "0009"
+      ],
+      "confidence": 0.6179907917976379,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0115/03_02_0115_(14_12_16_16_17_10)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0115",
+      "top3": [
+        "0149",
+        "0278",
+        "0009"
+      ],
+      "confidence": 0.6449798941612244,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0115/03_02_0115_(14_12_16_16_17_14)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0115",
+      "top3": [
+        "0149",
+        "0278",
+        "0009"
+      ],
+      "confidence": 0.5987074971199036,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0115/03_02_0115_(19_12_16_15_51_40)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0115",
+      "top3": [
+        "0322",
+        "0278",
+        "0227"
+      ],
+      "confidence": 0.9278435111045837,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0115/03_02_0115_(19_12_16_15_51_43)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0115",
+      "top3": [
+        "0322",
+        "0278",
+        "0222"
+      ],
+      "confidence": 0.8989223837852478,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0115/03_02_0115_(19_12_16_15_51_46)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0115",
+      "top3": [
+        "0322",
+        "0285",
+        "0278"
+      ],
+      "confidence": 0.9190016984939575,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0116/03_02_0116_(14_12_16_16_17_46)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0116",
+      "top3": [
+        "0149",
+        "0367",
+        "0447"
+      ],
+      "confidence": 0.32459795475006104,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0116/03_02_0116_(14_12_16_16_17_59)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0116",
+      "top3": [
+        "0010",
+        "0149",
+        "0367"
+      ],
+      "confidence": 0.289368599653244,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0116/03_02_0116_(14_12_16_16_18_11)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0116",
+      "top3": [
+        "0149",
+        "0010",
+        "0367"
+      ],
+      "confidence": 0.314505934715271,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0116/03_02_0116_(14_12_16_16_18_18)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0116",
+      "top3": [
+        "0149",
+        "0010",
+        "0367"
+      ],
+      "confidence": 0.35405194759368896,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0116/03_02_0116_(14_12_16_16_18_46)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0116",
+      "top3": [
+        "0149",
+        "0010",
+        "0447"
+      ],
+      "confidence": 0.3988407552242279,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0116/03_02_0116_(19_12_16_15_52_49)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0116",
+      "top3": [
+        "0222",
+        "0322",
+        "0285"
+      ],
+      "confidence": 0.5595508813858032,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0116/03_02_0116_(19_12_16_15_52_52)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0116",
+      "top3": [
+        "0322",
+        "0285",
+        "0081"
+      ],
+      "confidence": 0.9803785681724548,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0116/03_02_0116_(19_12_16_15_52_59)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0116",
+      "top3": [
+        "0322",
+        "0227",
+        "0081"
+      ],
+      "confidence": 0.9838801026344299,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0129/03_02_0129_(15_03_17_16_27_17)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0129",
+      "top3": [
+        "0241",
+        "0139",
+        "0106"
+      ],
+      "confidence": 0.5266733169555664,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0129/03_02_0129_(15_03_17_16_27_48)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0129",
+      "top3": [
+        "0241",
+        "0162",
+        "0106"
+      ],
+      "confidence": 0.32314226031303406,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0129/03_02_0129_(15_03_17_16_27_56)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0129",
+      "top3": [
+        "0106",
+        "0162",
+        "0274"
+      ],
+      "confidence": 0.4069669842720032,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0129/03_02_0129_(15_03_17_16_28_04)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0129",
+      "top3": [
+        "0162",
+        "0139",
+        "0106"
+      ],
+      "confidence": 0.5389972925186157,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0129/03_02_0129_(15_03_17_16_28_07)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0129",
+      "top3": [
+        "0162",
+        "0139",
+        "0106"
+      ],
+      "confidence": 0.20848053693771362,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0129/03_02_0129_(19_03_17_18_58_27)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0129",
+      "top3": [
+        "0313",
+        "0287",
+        "0178"
+      ],
+      "confidence": 0.33497104048728943,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0129/03_02_0129_(19_03_17_18_58_30)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0129",
+      "top3": [
+        "0313",
+        "0433",
+        "0025"
+      ],
+      "confidence": 0.7901777029037476,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0129/03_02_0129_(19_03_17_18_58_39)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0129",
+      "top3": [
+        "0433",
+        "0313",
+        "0241"
+      ],
+      "confidence": 0.628435492515564,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0132/03_02_0132_(15_03_17_16_36_08)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0132",
+      "top3": [
+        "0276",
+        "0080",
+        "0243"
+      ],
+      "confidence": 0.21395514905452728,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0132/03_02_0132_(15_03_17_16_36_30)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0132",
+      "top3": [
+        "0276",
+        "0466",
+        "0088"
+      ],
+      "confidence": 0.1858736276626587,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0132/03_02_0132_(15_03_17_16_36_41)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0132",
+      "top3": [
+        "0276",
+        "0466",
+        "0278"
+      ],
+      "confidence": 0.30598118901252747,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0132/03_02_0132_(15_03_17_16_37_20)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0132",
+      "top3": [
+        "0080",
+        "0149",
+        "0243"
+      ],
+      "confidence": 0.14515894651412964,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0132/03_02_0132_(15_03_17_16_37_55)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0132",
+      "top3": [
+        "0080",
+        "0243",
+        "0426"
+      ],
+      "confidence": 0.15973502397537231,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0132/03_02_0132_(15_03_17_16_38_04)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0132",
+      "top3": [
+        "0080",
+        "0243",
+        "0426"
+      ],
+      "confidence": 0.18295203149318695,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0132/03_02_0132_(19_03_17_19_03_41)_c.mp4",
+      "signer": "02",
+      "split": "validation",
+      "actual": "0132",
+      "top3": [
+        "0322",
+        "0081",
+        "0285"
+      ],
+      "confidence": 0.8974197506904602,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/02/0132/03_02_0132_(19_03_17_19_03_59)_c.mp4",
+      "signer": "02",
+      "split": "train",
+      "actual": "0132",
+      "top3": [
+        "0322",
+        "0081",
+        "0285"
+      ],
+      "confidence": 0.8902158141136169,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0088/03_03_0088_(15_12_16_17_22_23)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0088",
+      "top3": [
+        "0494",
+        "0088",
+        "0162"
+      ],
+      "confidence": 0.41774654388427734,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0088/03_03_0088_(15_12_16_17_22_27)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0088",
+      "top3": [
+        "0494",
+        "0088",
+        "0162"
+      ],
+      "confidence": 0.47700440883636475,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0088/03_03_0088_(15_12_16_17_23_17)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0088",
+      "top3": [
+        "0494",
+        "0088",
+        "0162"
+      ],
+      "confidence": 0.3059644103050232,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0088/03_03_0088_(20_12_16_17_29_02)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0088",
+      "top3": [
+        "0494",
+        "0061",
+        "0088"
+      ],
+      "confidence": 0.3026541471481323,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0088/03_03_0088_(20_12_16_17_29_12)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0088",
+      "top3": [
+        "0494",
+        "0061",
+        "0088"
+      ],
+      "confidence": 0.29802125692367554,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0088/03_03_0088_(20_12_16_17_29_37)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0088",
+      "top3": [
+        "0494",
+        "0061",
+        "0088"
+      ],
+      "confidence": 0.2664934992790222,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0088/03_03_0088_(20_12_16_17_29_42)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0088",
+      "top3": [
+        "0061",
+        "0494",
+        "0162"
+      ],
+      "confidence": 0.2933169901371002,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0088/03_03_0088_(20_12_16_17_30_05)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0088",
+      "top3": [
+        "0061",
+        "0494",
+        "0088"
+      ],
+      "confidence": 0.44052281975746155,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0092/03_03_0092_(15_12_16_17_35_43)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0092",
+      "top3": [
+        "0259",
+        "0100",
+        "0496"
+      ],
+      "confidence": 0.512883186340332,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0092/03_03_0092_(15_12_16_17_36_20)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0092",
+      "top3": [
+        "0259",
+        "0260",
+        "0427"
+      ],
+      "confidence": 0.6417704224586487,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0092/03_03_0092_(15_12_16_17_37_07)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0092",
+      "top3": [
+        "0259",
+        "0260",
+        "0427"
+      ],
+      "confidence": 0.6016873717308044,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0092/03_03_0092_(20_12_16_17_42_56)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0092",
+      "top3": [
+        "0427",
+        "0092",
+        "0259"
+      ],
+      "confidence": 0.8454045057296753,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0092/03_03_0092_(20_12_16_17_43_31)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0092",
+      "top3": [
+        "0260",
+        "0259",
+        "0100"
+      ],
+      "confidence": 0.5276511311531067,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0092/03_03_0092_(20_12_16_17_44_12)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0092",
+      "top3": [
+        "0259",
+        "0100",
+        "0260"
+      ],
+      "confidence": 0.38446861505508423,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0092/03_03_0092_(20_12_16_17_44_28)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0092",
+      "top3": [
+        "0259",
+        "0260",
+        "0427"
+      ],
+      "confidence": 0.4589117169380188,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0092/03_03_0092_(20_12_16_17_44_33)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0092",
+      "top3": [
+        "0259",
+        "0260",
+        "0427"
+      ],
+      "confidence": 0.7610700130462646,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0100/03_03_0100_(18_12_16_17_34_49)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0335",
+        "0461"
+      ],
+      "confidence": 0.6170141100883484,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0100/03_03_0100_(18_12_16_17_35_51)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0335",
+        "0241"
+      ],
+      "confidence": 0.9657875895500183,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0100/03_03_0100_(18_12_16_17_36_47)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0100",
+      "top3": [
+        "0335",
+        "0100",
+        "0502"
+      ],
+      "confidence": 0.5569371581077576,
+      "correct": false,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0100/03_03_0100_(22_12_16_10_34_44)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0300",
+        "0299"
+      ],
+      "confidence": 0.9871597290039062,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0100/03_03_0100_(22_12_16_10_34_52)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0287",
+        "0300"
+      ],
+      "confidence": 0.9942867159843445,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0100/03_03_0100_(22_12_16_10_35_04)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0287",
+        "0090"
+      ],
+      "confidence": 0.6972144842147827,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0100/03_03_0100_(22_12_16_10_35_16)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0201",
+        "0208"
+      ],
+      "confidence": 0.7441872358322144,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0100/03_03_0100_(22_12_16_10_35_28)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0100",
+      "top3": [
+        "0100",
+        "0090",
+        "0300"
+      ],
+      "confidence": 0.7906131744384766,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0101/03_03_0101_(18_12_16_17_39_03)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0101",
+      "top3": [
+        "0244",
+        "0260",
+        "0169"
+      ],
+      "confidence": 0.781169056892395,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0101/03_03_0101_(18_12_16_17_39_42)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0101",
+      "top3": [
+        "0260",
+        "0259",
+        "0169"
+      ],
+      "confidence": 0.43993765115737915,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0101/03_03_0101_(18_12_16_17_40_31)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0101",
+      "top3": [
+        "0244",
+        "0353",
+        "0260"
+      ],
+      "confidence": 0.8024075627326965,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0101/03_03_0101_(22_12_16_10_36_41)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0101",
+      "top3": [
+        "0170",
+        "0425",
+        "0169"
+      ],
+      "confidence": 0.177847757935524,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0101/03_03_0101_(22_12_16_10_36_46)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0101",
+      "top3": [
+        "0241",
+        "0136",
+        "0259"
+      ],
+      "confidence": 0.6756725311279297,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0101/03_03_0101_(22_12_16_10_37_23)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0101",
+      "top3": [
+        "0425",
+        "0170",
+        "0169"
+      ],
+      "confidence": 0.7732367515563965,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0101/03_03_0101_(22_12_16_10_37_53)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0101",
+      "top3": [
+        "0425",
+        "0169",
+        "0170"
+      ],
+      "confidence": 0.7879719734191895,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0101/03_03_0101_(22_12_16_10_38_36)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0101",
+      "top3": [
+        "0244",
+        "0353",
+        "0010"
+      ],
+      "confidence": 0.49802637100219727,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0103/03_03_0103_(18_12_16_17_47_45)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0407"
+      ],
+      "confidence": 0.7831788659095764,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0103/03_03_0103_(18_12_16_17_48_30)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0407"
+      ],
+      "confidence": 0.8557819128036499,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0103/03_03_0103_(18_12_16_17_50_13)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0407"
+      ],
+      "confidence": 0.8954510688781738,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0103/03_03_0103_(22_12_16_10_44_11)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0407"
+      ],
+      "confidence": 0.7105610370635986,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0103/03_03_0103_(22_12_16_10_44_17)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0407"
+      ],
+      "confidence": 0.8519287109375,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0103/03_03_0103_(22_12_16_10_44_31)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0407",
+        "0010"
+      ],
+      "confidence": 0.8396801352500916,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0103/03_03_0103_(22_12_16_10_44_51)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0407"
+      ],
+      "confidence": 0.8862296938896179,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0103/03_03_0103_(22_12_16_10_45_43)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0103",
+      "top3": [
+        "0103",
+        "0010",
+        "0407"
+      ],
+      "confidence": 0.861839771270752,
+      "correct": true,
+      "top3_correct": true
+    },
+    {
+      "path": "data/cv/raw/03/0108/03_03_0108_(18_12_16_18_00_31)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0108",
+      "top3": [
+        "0028",
+        "0238",
+        "0169"
+      ],
+      "confidence": 0.4962364435195923,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0108/03_03_0108_(18_12_16_18_01_10)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0108",
+      "top3": [
+        "0259",
+        "0370",
+        "0169"
+      ],
+      "confidence": 0.21512532234191895,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0108/03_03_0108_(18_12_16_18_02_10)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0108",
+      "top3": [
+        "0370",
+        "0169",
+        "0028"
+      ],
+      "confidence": 0.09785694628953934,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0108/03_03_0108_(22_12_16_16_16_11)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0108",
+      "top3": [
+        "0028",
+        "0169",
+        "0241"
+      ],
+      "confidence": 0.2971203923225403,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0108/03_03_0108_(22_12_16_16_16_24)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0108",
+      "top3": [
+        "0169",
+        "0238",
+        "0028"
+      ],
+      "confidence": 0.4381147623062134,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0108/03_03_0108_(22_12_16_16_16_31)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0108",
+      "top3": [
+        "0169",
+        "0028",
+        "0238"
+      ],
+      "confidence": 0.5774486660957336,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0108/03_03_0108_(22_12_16_16_17_18)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0108",
+      "top3": [
+        "0028",
+        "0169",
+        "0238"
+      ],
+      "confidence": 0.2811669111251831,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0108/03_03_0108_(22_12_16_16_18_14)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0108",
+      "top3": [
+        "0169",
+        "0238",
+        "0028"
+      ],
+      "confidence": 0.3460495173931122,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0109/03_03_0109_(18_12_16_18_05_24)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0109",
+      "top3": [
+        "0223",
+        "0156",
+        "0259"
+      ],
+      "confidence": 0.20951411128044128,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0109/03_03_0109_(18_12_16_18_05_46)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0109",
+      "top3": [
+        "0247",
+        "0259",
+        "0156"
+      ],
+      "confidence": 0.19110530614852905,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0109/03_03_0109_(18_12_16_18_06_02)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0109",
+      "top3": [
+        "0241",
+        "0169",
+        "0223"
+      ],
+      "confidence": 0.6947956681251526,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0109/03_03_0109_(18_12_16_18_07_02)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0109",
+      "top3": [
+        "0223",
+        "0259",
+        "0151"
+      ],
+      "confidence": 0.4720858037471771,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0109/03_03_0109_(22_12_16_16_19_30)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0109",
+      "top3": [
+        "0259",
+        "0156",
+        "0260"
+      ],
+      "confidence": 0.21131591498851776,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0109/03_03_0109_(22_12_16_16_19_39)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0109",
+      "top3": [
+        "0223",
+        "0259",
+        "0156"
+      ],
+      "confidence": 0.1621885597705841,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0109/03_03_0109_(22_12_16_16_20_11)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0109",
+      "top3": [
+        "0223",
+        "0156",
+        "0260"
+      ],
+      "confidence": 0.2825957238674164,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0109/03_03_0109_(22_12_16_16_21_27)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0109",
+      "top3": [
+        "0223",
+        "0169",
+        "0241"
+      ],
+      "confidence": 0.23401093482971191,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0110/03_03_0110_(18_12_16_18_10_20)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0110",
+      "top3": [
+        "0030",
+        "0260",
+        "0031"
+      ],
+      "confidence": 0.40394824743270874,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0110/03_03_0110_(18_12_16_18_10_27)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0110",
+      "top3": [
+        "0030",
+        "0031",
+        "0260"
+      ],
+      "confidence": 0.5685864090919495,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0110/03_03_0110_(22_12_16_16_22_24)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0110",
+      "top3": [
+        "0030",
+        "0031",
+        "0260"
+      ],
+      "confidence": 0.25077104568481445,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0110/03_03_0110_(22_12_16_16_22_53)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0110",
+      "top3": [
+        "0031",
+        "0260",
+        "0030"
+      ],
+      "confidence": 0.2704491913318634,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0110/03_03_0110_(22_12_16_16_23_05)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0110",
+      "top3": [
+        "0031",
+        "0030",
+        "0260"
+      ],
+      "confidence": 0.6157636046409607,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0110/03_03_0110_(22_12_16_16_23_16)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0110",
+      "top3": [
+        "0260",
+        "0030",
+        "0031"
+      ],
+      "confidence": 0.2097894251346588,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0110/03_03_0110_(22_12_16_16_23_23)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0110",
+      "top3": [
+        "0031",
+        "0030",
+        "0260"
+      ],
+      "confidence": 0.4071790277957916,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0110/03_03_0110_(22_12_16_16_24_25)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0110",
+      "top3": [
+        "0031",
+        "0030",
+        "0260"
+      ],
+      "confidence": 0.31891581416130066,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0115/03_03_0115_(18_12_16_18_26_19)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0149"
+      ],
+      "confidence": 0.7856360673904419,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0115/03_03_0115_(18_12_16_18_26_25)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0278"
+      ],
+      "confidence": 0.6157773733139038,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0115/03_03_0115_(18_12_16_18_26_41)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0149"
+      ],
+      "confidence": 0.6096689701080322,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0115/03_03_0115_(18_12_16_18_27_01)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0149"
+      ],
+      "confidence": 0.7626437544822693,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0115/03_03_0115_(18_12_16_18_27_39)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0115",
+      "top3": [
+        "0009",
+        "0010",
+        "0149"
+      ],
+      "confidence": 0.5724208950996399,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0115/03_03_0115_(22_12_16_16_36_43)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0115",
+      "top3": [
+        "0285",
+        "0222",
+        "0447"
+      ],
+      "confidence": 0.41959768533706665,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0115/03_03_0115_(22_12_16_16_37_08)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0115",
+      "top3": [
+        "0285",
+        "0222",
+        "0447"
+      ],
+      "confidence": 0.4373268187046051,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0115/03_03_0115_(22_12_16_16_37_44)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0115",
+      "top3": [
+        "0322",
+        "0357",
+        "0227"
+      ],
+      "confidence": 0.5240283608436584,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0116/03_03_0116_(18_12_16_18_29_04)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0116",
+      "top3": [
+        "0176",
+        "0285",
+        "0435"
+      ],
+      "confidence": 0.30299749970436096,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0116/03_03_0116_(18_12_16_18_29_56)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0116",
+      "top3": [
+        "0322",
+        "0357",
+        "0140"
+      ],
+      "confidence": 0.6228517293930054,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0116/03_03_0116_(22_12_16_16_38_47)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0116",
+      "top3": [
+        "0006",
+        "0435",
+        "0010"
+      ],
+      "confidence": 0.21252354979515076,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0116/03_03_0116_(22_12_16_16_39_39)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0116",
+      "top3": [
+        "0010",
+        "0367",
+        "0435"
+      ],
+      "confidence": 0.19541876018047333,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0116/03_03_0116_(22_12_16_16_39_54)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0116",
+      "top3": [
+        "0010",
+        "0435",
+        "0367"
+      ],
+      "confidence": 0.21227245032787323,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0116/03_03_0116_(22_12_16_16_39_57)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0116",
+      "top3": [
+        "0435",
+        "0367",
+        "0010"
+      ],
+      "confidence": 0.324130117893219,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0116/03_03_0116_(22_12_16_16_40_00)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0116",
+      "top3": [
+        "0435",
+        "0367",
+        "0010"
+      ],
+      "confidence": 0.24266649782657623,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0116/03_03_0116_(22_12_16_16_40_16)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0116",
+      "top3": [
+        "0435",
+        "0367",
+        "0010"
+      ],
+      "confidence": 0.21502727270126343,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0129/03_03_0129_(16_03_17_16_11_24)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0129",
+      "top3": [
+        "0494",
+        "0162",
+        "0407"
+      ],
+      "confidence": 0.39207223057746887,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0129/03_03_0129_(16_03_17_16_11_28)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0129",
+      "top3": [
+        "0494",
+        "0162",
+        "0407"
+      ],
+      "confidence": 0.4671393036842346,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0129/03_03_0129_(16_03_17_16_11_43)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0129",
+      "top3": [
+        "0494",
+        "0407",
+        "0162"
+      ],
+      "confidence": 0.707045316696167,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0129/03_03_0129_(16_03_17_16_12_14)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0129",
+      "top3": [
+        "0140",
+        "0162",
+        "0354"
+      ],
+      "confidence": 0.7356581687927246,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0129/03_03_0129_(20_02_17_18_00_35)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0129",
+      "top3": [
+        "0162",
+        "0140",
+        "0353"
+      ],
+      "confidence": 0.9096373915672302,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0129/03_03_0129_(20_02_17_18_01_01)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0129",
+      "top3": [
+        "0140",
+        "0162",
+        "0353"
+      ],
+      "confidence": 0.6512755155563354,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0129/03_03_0129_(20_02_17_18_01_20)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0129",
+      "top3": [
+        "0162",
+        "0140",
+        "0353"
+      ],
+      "confidence": 0.45021024346351624,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0129/03_03_0129_(20_02_17_18_01_46)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0129",
+      "top3": [
+        "0162",
+        "0140",
+        "0353"
+      ],
+      "confidence": 0.6865984797477722,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0132/03_03_0132_(16_03_17_16_25_31)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0132",
+      "top3": [
+        "0007",
+        "0322",
+        "0501"
+      ],
+      "confidence": 0.6979491710662842,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0132/03_03_0132_(16_03_17_16_25_47)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0132",
+      "top3": [
+        "0007",
+        "0322",
+        "0501"
+      ],
+      "confidence": 0.6303176879882812,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0132/03_03_0132_(16_03_17_16_26_18)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0132",
+      "top3": [
+        "0007",
+        "0322",
+        "0176"
+      ],
+      "confidence": 0.6943361163139343,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0132/03_03_0132_(16_03_17_16_26_36)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0132",
+      "top3": [
+        "0007",
+        "0322",
+        "0501"
+      ],
+      "confidence": 0.5739054083824158,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0132/03_03_0132_(20_02_17_18_17_07)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0132",
+      "top3": [
+        "0322",
+        "0357",
+        "0007"
+      ],
+      "confidence": 0.4141772389411926,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0132/03_03_0132_(20_02_17_18_17_18)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0132",
+      "top3": [
+        "0322",
+        "0007",
+        "0357"
+      ],
+      "confidence": 0.4524480104446411,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0132/03_03_0132_(20_02_17_18_17_22)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0132",
+      "top3": [
+        "0322",
+        "0007",
+        "0357"
+      ],
+      "confidence": 0.39715418219566345,
+      "correct": false,
+      "top3_correct": false
+    },
+    {
+      "path": "data/cv/raw/03/0132/03_03_0132_(20_02_17_18_17_36)_c.mp4",
+      "signer": "03",
+      "split": "test",
+      "actual": "0132",
+      "top3": [
+        "0322",
+        "0007",
+        "0357"
+      ],
+      "confidence": 0.43871214985847473,
+      "correct": false,
+      "top3_correct": false
+    }
+  ]
+}

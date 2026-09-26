@@ -1,0 +1,57 @@
+{
+  "input_source": "manual NLP-only glosses; no CV appointment recognition claim",
+  "glosses": [
+    "موعد",
+    "قلب",
+    "اليوم"
+  ],
+  "generated": {
+    "input": [
+      "موعد",
+      "قلب",
+      "اليوم"
+    ],
+    "candidates": [
+      "لدي موعد اليوم في عيادة القلب."
+    ],
+    "requires_confirmation": true,
+    "rejected_count": 14,
+    "uncertainty": false,
+    "strictly_validated": true,
+    "candidate_reviews": [
+      {
+        "candidate": "لدي موعد اليوم في عيادة القلب.",
+        "valid": true,
+        "expected": [
+          "اليوم",
+          "قلب",
+          "موعد"
+        ],
+        "found": [
+          "اليوم",
+          "قلب",
+          "موعد"
+        ],
+        "missing": [],
+        "added": [],
+        "repeated": [],
+        "reasons": []
+      }
+    ],
+    "generation_method": "fine_tuned_seq2seq"
+  },
+  "confirmed": {
+    "confirmed": true,
+    "sentence": "لدي موعد اليوم في عيادة القلب.",
+    "source": "model_candidate"
+  },
+  "employee": {
+    "sentence": "لدي موعد اليوم في عيادة القلب.",
+    "glosses": [
+      "موعد",
+      "قلب",
+      "اليوم"
+    ],
+    "source": "model_candidate"
+  }
+}

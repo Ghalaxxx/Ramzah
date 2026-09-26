@@ -1,0 +1,1072 @@
+{
+  "summary": {
+    "n_groups": 50,
+    "candidate_coverage": 1.0,
+    "concept_preservation_all": 0.64,
+    "missing_slot_rate": 0.34,
+    "added_slot_rate": 0.02,
+    "chrf_among_covered": 29.63944987940505,
+    "median_latency_seconds": 0.7343918999977177,
+    "p95_latency_seconds": 0.9646090000023833,
+    "first_choice_user_acceptance": "NOT MEASURED: requires real user choices",
+    "semantic_similarity": "NOT MEASURED: no independent Arabic sentence-embedding validation",
+    "human_meaning_preservation": "NOT MEASURED: requires Deaf-user/clinical review",
+    "note": "Synthetic held-out exact input-order/target pairs; automated concept-preservation is narrower than semantic equivalence"
+  },
+  "samples": [
+    {
+      "group_id": "أشعة",
+      "glosses": [
+        "أشعة"
+      ],
+      "reference": "أريد التوجه إلى قسم الأشعة.",
+      "first": "أحتاج إلى إجراء الأشعة.",
+      "candidates": [
+        "أحتاج إلى إجراء الأشعة.",
+        "أحتاج إلى إجراء أشعة."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 14,
+      "latency_seconds": 0.7374975999991875,
+      "failure": null
+    },
+    {
+      "group_id": "أشعة|اليوم|موعد",
+      "glosses": [
+        "اليوم",
+        "أشعة",
+        "موعد"
+      ],
+      "reference": "أين قسم الأشعة؟ لدي موعد اليوم.",
+      "first": "لدي موعد اليوم لفحص النظر.",
+      "candidates": [
+        "لدي موعد اليوم لفحص النظر.",
+        "لدي موعد اليوم لإجراء تحليل الدم.",
+        "هل يمكن إجراء تحليل الدم اليوم؟"
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "أشعة"
+      ],
+      "added": [
+        "فحص النظر"
+      ],
+      "rejected_generations": 16,
+      "latency_seconds": 0.5824399000048288,
+      "failure": null
+    },
+    {
+      "group_id": "أشعة|طبيب",
+      "glosses": [
+        "أشعة",
+        "طبيب"
+      ],
+      "reference": "أين الطبيب المسؤول عن نتيجة الأشعة؟",
+      "first": "أريد مقابلة الطبيب لإجراء الأشعة.",
+      "candidates": [
+        "أريد مقابلة الطبيب لإجراء الأشعة."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 15,
+      "latency_seconds": 0.686697599994659,
+      "failure": null
+    },
+    {
+      "group_id": "أشعة|مستشفى",
+      "glosses": [
+        "أشعة",
+        "مستشفى"
+      ],
+      "reference": "أريد التوجه إلى الأشعة في المستشفى.",
+      "first": "أحتاج إلى إجراء أشعة.",
+      "candidates": [
+        "أحتاج إلى إجراء أشعة.",
+        "أحتاج إلى إجراء الأشعة.",
+        "أريد التوجه إلى المستشفى."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "مستشفى"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.6482729999988806,
+      "failure": null
+    },
+    {
+      "group_id": "ألم",
+      "glosses": [
+        "ألم"
+      ],
+      "reference": "أحتاج إلى طبيب بسبب الألم.",
+      "first": "أشعر بألم.",
+      "candidates": [
+        "أشعر بألم."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 15,
+      "latency_seconds": 0.5335572000039974,
+      "failure": null
+    },
+    {
+      "group_id": "ألم|صداع",
+      "glosses": [
+        "صداع",
+        "ألم"
+      ],
+      "reference": "أحتاج إلى مساعدة بسبب ألم الرأس.",
+      "first": "لدي صداع مؤلم مؤلم.",
+      "candidates": [
+        "لدي صداع مؤلم مؤلم.",
+        "لدي صداع مؤلم وأحتاج إلى ألم.",
+        "لدي صداع مؤلم وأحتاج إلى صداع."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.6712129000006826,
+      "failure": null
+    },
+    {
+      "group_id": "ألم|صداع|طبيب",
+      "glosses": [
+        "ألم",
+        "صداع",
+        "طبيب"
+      ],
+      "reference": "رأسي يؤلمني وأحتاج إلى فحص طبي.",
+      "first": "لدي صداع مؤلم وأحتاج إلى طبيب.",
+      "candidates": [
+        "لدي صداع مؤلم وأحتاج إلى طبيب.",
+        "لدي صداع مؤلم وأحتاج إلى الطبيب.",
+        "لدي صداع مؤلم وأحتاج إلى الطبيب؟"
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 4,
+      "latency_seconds": 0.6799585999979172,
+      "failure": null
+    },
+    {
+      "group_id": "ألم|طبيب|قلب",
+      "glosses": [
+        "قلب",
+        "ألم",
+        "طبيب"
+      ],
+      "reference": "قلبي يؤلمني وأرغب في الفحص الطبي.",
+      "first": "أحتاج إلى طبيب القلب.",
+      "candidates": [
+        "أحتاج إلى طبيب القلب.",
+        "أريد مقابلة طبيب القلب.",
+        "أريد التوجه إلى طبيب القلب."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "ألم"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.6282081000026665,
+      "failure": null
+    },
+    {
+      "group_id": "ألم|قلب",
+      "glosses": [
+        "ألم",
+        "قلب"
+      ],
+      "reference": "أعاني من ألم في القلب.",
+      "first": "لدي ألم في القلب.",
+      "candidates": [
+        "لدي ألم في القلب."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 15,
+      "latency_seconds": 0.6349671999996644,
+      "failure": null
+    },
+    {
+      "group_id": "اليوم",
+      "glosses": [
+        "اليوم"
+      ],
+      "reference": "أحتاج إلى الخدمة اليوم.",
+      "first": "أحتاج إلى صرف طبي.",
+      "candidates": [
+        "أحتاج إلى صرف طبي.",
+        "لدي موعد اليوم.",
+        "أحتاج إلى إجراء تحليل الدم اليوم."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "اليوم"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.6744035999945481,
+      "failure": null
+    },
+    {
+      "group_id": "اليوم|تحليل دم|مختبر",
+      "glosses": [
+        "مختبر",
+        "تحليل دم",
+        "اليوم"
+      ],
+      "reference": "أين أسحب عينة الدم اليوم؟",
+      "first": "أين يمكنني إجراء تحليل الدم اليوم في المختبر؟",
+      "candidates": [
+        "أين يمكنني إجراء تحليل الدم اليوم في المختبر؟",
+        "أحتاج إلى إجراء تحليل الدم في المختبر اليوم.",
+        "أريد لإجراء تحليل الدم اليوم في المختبر."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 10,
+      "latency_seconds": 0.8748102000026847,
+      "failure": null
+    },
+    {
+      "group_id": "اليوم|تحليل دم|موعد",
+      "glosses": [
+        "تحليل دم",
+        "موعد",
+        "اليوم"
+      ],
+      "reference": "أين أذهب لإجراء تحليل الدم اليوم؟",
+      "first": "لدي موعد اليوم لإجراء تحليل الدم.",
+      "candidates": [
+        "لدي موعد اليوم لإجراء تحليل الدم.",
+        "لدي موعد اليوم لفحص الدم.",
+        "أريد موعد اليوم لإجراء تحليل الدم."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 4,
+      "latency_seconds": 0.7474714999989374,
+      "failure": null
+    },
+    {
+      "group_id": "اليوم|فحص النظر|موعد",
+      "glosses": [
+        "اليوم",
+        "موعد",
+        "فحص النظر"
+      ],
+      "reference": "أين عيادة النظر؟ لدي موعد اليوم.",
+      "first": "لدي موعد اليوم لفحص النظر.",
+      "candidates": [
+        "لدي موعد اليوم لفحص النظر.",
+        "أريد موعد اليوم لفحص النظر."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 11,
+      "latency_seconds": 0.6796538999988115,
+      "failure": null
+    },
+    {
+      "group_id": "اليوم|قلب|موعد",
+      "glosses": [
+        "قلب",
+        "موعد",
+        "اليوم"
+      ],
+      "reference": "أحتاج إلى تأكيد موعد القلب اليوم.",
+      "first": "لدي موعد اليوم في عيادة القلب.",
+      "candidates": [
+        "لدي موعد اليوم في عيادة القلب."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 15,
+      "latency_seconds": 0.8601097000064328,
+      "failure": null
+    },
+    {
+      "group_id": "انتظار",
+      "glosses": [
+        "انتظار"
+      ],
+      "reference": "طال وقت الانتظار.",
+      "first": "أريد أنتظر؟",
+      "candidates": [
+        "أريد أنتظر؟"
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 15,
+      "latency_seconds": 0.4779692999945837,
+      "failure": null
+    },
+    {
+      "group_id": "انتظار|طبيب",
+      "glosses": [
+        "انتظار",
+        "طبيب"
+      ],
+      "reference": "طال انتظاري لمقابلة الطبيب.",
+      "first": "أريد مقابلة الطبيب من الطبيب.",
+      "candidates": [
+        "أريد مقابلة الطبيب من الطبيب.",
+        "أين تقع الطبيب هذا طبيب شديد.",
+        "أحتاج إلى طبيب لمراجعة الطبيب."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "انتظار"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.7312861999962479,
+      "failure": null
+    },
+    {
+      "group_id": "انتظار|موعد",
+      "glosses": [
+        "موعد",
+        "انتظار"
+      ],
+      "reference": "طال وقت الانتظار رغم وجود موعد.",
+      "first": "لدي موعد.",
+      "candidates": [
+        "لدي موعد.",
+        "أحتاج إلى موعد.",
+        "أحتاج إلى موعدي."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "انتظار"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.5611465999973007,
+      "failure": null
+    },
+    {
+      "group_id": "تحليل دم",
+      "glosses": [
+        "تحليل دم"
+      ],
+      "reference": "أريد معرفة مكان سحب عينة الدم.",
+      "first": "أحتاج إلى إجراء تحليل الدم.",
+      "candidates": [
+        "أحتاج إلى إجراء تحليل الدم.",
+        "أحتاج إلى إجراء تحليل دم.",
+        "أريد إجراء تحليل الدم."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 4,
+      "latency_seconds": 0.6886815000034403,
+      "failure": null
+    },
+    {
+      "group_id": "تحليل دم|مختبر",
+      "glosses": [
+        "تحليل دم",
+        "مختبر"
+      ],
+      "reference": "أحتاج إلى فحص الدم في المختبر.",
+      "first": "أحتاج إلى إجراء تحليل الدم في المختبر.",
+      "candidates": [
+        "أحتاج إلى إجراء تحليل الدم في المختبر.",
+        "أين يمكنني إجراء تحليل الدم في المختبر؟",
+        "أريد إجراء تحليل الدم في المختبر."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 1,
+      "latency_seconds": 0.7985689000051934,
+      "failure": null
+    },
+    {
+      "group_id": "تحليل طبي",
+      "glosses": [
+        "تحليل طبي"
+      ],
+      "reference": "أريد معرفة مكان إجراء الفحوصات.",
+      "first": "أحتاج إلى إجراء تحليل طبي.",
+      "candidates": [
+        "أحتاج إلى إجراء تحليل طبي.",
+        "لدي طلب إجراء تحليل طبي.",
+        "لدي طلب تحليل طبي."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 4,
+      "latency_seconds": 0.7040674000018043,
+      "failure": null
+    },
+    {
+      "group_id": "تحليل طبي|مختبر",
+      "glosses": [
+        "تحليل طبي",
+        "مختبر"
+      ],
+      "reference": "أحتاج إلى زيارة المختبر لإجراء الفحوصات.",
+      "first": "لدي طلب تحليل طبي.",
+      "candidates": [
+        "لدي طلب تحليل طبي.",
+        "لدي طلب إجراء تحليل طبي.",
+        "أحتاج إلى إجراء تحليل طبي."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "مختبر"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.751006899998174,
+      "failure": null
+    },
+    {
+      "group_id": "دواء",
+      "glosses": [
+        "دواء"
+      ],
+      "reference": "متى أتناول العلاج؟",
+      "first": "أحتاج إلى دوائي.",
+      "candidates": [
+        "أحتاج إلى دوائي.",
+        "أحتاج إلى دواء.",
+        "أين تقع الدواء؟"
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 8,
+      "latency_seconds": 0.5712696999980835,
+      "failure": null
+    },
+    {
+      "group_id": "دواء|صداع",
+      "glosses": [
+        "صداع",
+        "دواء"
+      ],
+      "reference": "لدي صداع وأحتاج إلى العلاج.",
+      "first": "أعاني من صداع.",
+      "candidates": [
+        "أعاني من صداع.",
+        "أين تقع الصداع؟",
+        "أحتاج إلى دوائي."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "دواء"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.8000077999968198,
+      "failure": null
+    },
+    {
+      "group_id": "دواء|صيدلية",
+      "glosses": [
+        "دواء",
+        "صيدلية"
+      ],
+      "reference": "لدي وصفة دواء، أين الصيدلية؟",
+      "first": "أحتاج إلى دوائي من الصيدلية.",
+      "candidates": [
+        "أحتاج إلى دوائي من الصيدلية."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 15,
+      "latency_seconds": 0.5653888999950141,
+      "failure": null
+    },
+    {
+      "group_id": "دواء|صيدلية|مستشفى",
+      "glosses": [
+        "مستشفى",
+        "صيدلية",
+        "دواء"
+      ],
+      "reference": "دلني على صيدلية المستشفى لاستلام العلاج.",
+      "first": "أحتاج إلى دواء المستشفى.",
+      "candidates": [
+        "أحتاج إلى دواء المستشفى.",
+        "أحتاج إلى دوائي من الصيدلية.",
+        "أحتاج إلى دواء المستشفى في المستشفى."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "صيدلية"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.6123779999979888,
+      "failure": null
+    },
+    {
+      "group_id": "دواء|ضغط الدم",
+      "glosses": [
+        "دواء",
+        "ضغط الدم"
+      ],
+      "reference": "متى أتناول علاج الضغط؟",
+      "first": "أحتاج إلى دواء ضغط الدم.",
+      "candidates": [
+        "أحتاج إلى دواء ضغط الدم.",
+        "أحتاج إلى دواء الضغط.",
+        "لدي طلب دواء ضغط الدم."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 7,
+      "latency_seconds": 0.7532731000028434,
+      "failure": null
+    },
+    {
+      "group_id": "دواء|طبيب",
+      "glosses": [
+        "دواء",
+        "طبيب"
+      ],
+      "reference": "هل يمكن للطبيب توضيح طريقة استخدام الدواء؟",
+      "first": "أحتاج إلى دوائي من الطبيب.",
+      "candidates": [
+        "أحتاج إلى دوائي من الطبيب.",
+        "أحتاج إلى دوائي من طبيب."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 14,
+      "latency_seconds": 0.7991433999995934,
+      "failure": null
+    },
+    {
+      "group_id": "صداع",
+      "glosses": [
+        "صداع"
+      ],
+      "reference": "أشعر بألم في رأسي.",
+      "first": "أعاني من صداع.",
+      "candidates": [
+        "أعاني من صداع."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 15,
+      "latency_seconds": 0.6071645999982138,
+      "failure": null
+    },
+    {
+      "group_id": "صداع|طبيب",
+      "glosses": [
+        "صداع",
+        "طبيب"
+      ],
+      "reference": "لدي صداع وأرغب في استشارة طبيب.",
+      "first": "أريد مقابلة الطبيب بسبب صداع.",
+      "candidates": [
+        "أريد مقابلة الطبيب بسبب صداع.",
+        "أعاني من صداع وأحتاج إلى طبيب.",
+        "أحتاج إلى طبيب شديد من صداع."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 8,
+      "latency_seconds": 0.8101180999947246,
+      "failure": null
+    },
+    {
+      "group_id": "صيدلية",
+      "glosses": [
+        "صيدلية"
+      ],
+      "reference": "دلني على صيدلية المستشفى من فضلك.",
+      "first": "أريد التوجه إلى الصيدلية.",
+      "candidates": [
+        "أريد التوجه إلى الصيدلية.",
+        "أين تقع الصيدلية؟",
+        "أين يقع الصيدلية؟"
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 12,
+      "latency_seconds": 0.5619321999984095,
+      "failure": null
+    },
+    {
+      "group_id": "صيدلية|مستشفى",
+      "glosses": [
+        "مستشفى",
+        "صيدلية"
+      ],
+      "reference": "هل توجد صيدلية في هذا المستشفى؟",
+      "first": "أريد التوجه إلى الصيدلية المستشفى.",
+      "candidates": [
+        "أريد التوجه إلى الصيدلية المستشفى."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 15,
+      "latency_seconds": 0.7761212000041269,
+      "failure": null
+    },
+    {
+      "group_id": "ضغط الدم",
+      "glosses": [
+        "ضغط الدم"
+      ],
+      "reference": "أحتاج إلى متابعة ضغط الدم.",
+      "first": "أحتاج إلى قياس ضغط الدم.",
+      "candidates": [
+        "أحتاج إلى قياس ضغط الدم.",
+        "لدي طلب قياس ضغط الدم.",
+        "أحتاج إلى إجراء ضغط الدم."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 2,
+      "latency_seconds": 0.6612198000002536,
+      "failure": null
+    },
+    {
+      "group_id": "ضغط الدم|طبيب",
+      "glosses": [
+        "ضغط الدم",
+        "طبيب"
+      ],
+      "reference": "لدي مراجعة طبية بسبب ضغط الدم.",
+      "first": "لدي طلب فحص ضغط الدم.",
+      "candidates": [
+        "لدي طلب فحص ضغط الدم.",
+        "أحتاج إلى إنهاء الضغط.",
+        "أحتاج إلى قياس ضغط الدم."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "طبيب"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.8327378000030876,
+      "failure": null
+    },
+    {
+      "group_id": "ضغط الدم|مستشفى",
+      "glosses": [
+        "ضغط الدم",
+        "مستشفى"
+      ],
+      "reference": "دلني على قسم قياس الضغط.",
+      "first": "أحتاج إلى قياس ضغط الدم.",
+      "candidates": [
+        "أحتاج إلى قياس ضغط الدم.",
+        "لدي موعد ضغط الدم في المستشفى.",
+        "أحتاج إلى إجراء تحليل للدم."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "مستشفى"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.7936838000023272,
+      "failure": null
+    },
+    {
+      "group_id": "طبيب",
+      "glosses": [
+        "طبيب"
+      ],
+      "reference": "هل الطبيب متاح الآن؟",
+      "first": "أريد مقابلة الطبيب.",
+      "candidates": [
+        "أريد مقابلة الطبيب.",
+        "أحتاج إلى الطبيب بشأن للطبيب."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 13,
+      "latency_seconds": 0.8743302000002586,
+      "failure": null
+    },
+    {
+      "group_id": "طبيب|فحص النظر",
+      "glosses": [
+        "طبيب",
+        "فحص النظر"
+      ],
+      "reference": "لدي موعد مع الطبيب لفحص النظر.",
+      "first": "أريد مقابلة الطبيب لفحص النظر.",
+      "candidates": [
+        "أريد مقابلة الطبيب لفحص النظر.",
+        "أريد مقابلة الطبيب لإجراء فحص النظر.",
+        "أريد التوجه إلى الطبيب لفحص النظر."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 6,
+      "latency_seconds": 0.7825626999983797,
+      "failure": null
+    },
+    {
+      "group_id": "طبيب|قلب",
+      "glosses": [
+        "قلب",
+        "طبيب"
+      ],
+      "reference": "هل طبيب القلب متاح؟",
+      "first": "أحتاج إلى طبيب القلب.",
+      "candidates": [
+        "أحتاج إلى طبيب القلب.",
+        "أريد مقابلة طبيب القلب.",
+        "أريد مقابلة الطبيب بسبب القلب."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 3,
+      "latency_seconds": 0.8252796000015223,
+      "failure": null
+    },
+    {
+      "group_id": "غداً",
+      "glosses": [
+        "غداً"
+      ],
+      "reference": "هل يمكنني الحضور غدًا؟",
+      "first": "لدي موعدا.",
+      "candidates": [
+        "لدي موعدا.",
+        "أحتاج إلىا.",
+        "أحتاج إلى إجراء تحليلي."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "غداً"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.7101812999972026,
+      "failure": null
+    },
+    {
+      "group_id": "غداً|قلب|موعد",
+      "glosses": [
+        "موعد",
+        "قلب",
+        "غداً"
+      ],
+      "reference": "أحتاج إلى تأكيد موعد القلب غدًا.",
+      "first": "أريد التوجه إلى عيادة القلب.",
+      "candidates": [
+        "أريد التوجه إلى عيادة القلب.",
+        "أين تقع عيادة القلب في المستشفى؟",
+        "أين تقع عيادة القلب في المستشفى."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "غداً",
+        "موعد"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.8554296000002068,
+      "failure": null
+    },
+    {
+      "group_id": "فحص النظر",
+      "glosses": [
+        "فحص النظر"
+      ],
+      "reference": "دلني على عيادة فحص النظر.",
+      "first": "أحتاج إلى فحص النظر.",
+      "candidates": [
+        "أحتاج إلى فحص النظر.",
+        "أحتاج إلى إجراء فحص النظر.",
+        "أريد فحص النظر."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 4,
+      "latency_seconds": 0.6253574000002118,
+      "failure": null
+    },
+    {
+      "group_id": "فحص النظر|مستشفى",
+      "glosses": [
+        "مستشفى",
+        "فحص النظر"
+      ],
+      "reference": "دلني على قسم فحص النظر.",
+      "first": "أحتاج إلى فحص النظر.",
+      "candidates": [
+        "أحتاج إلى فحص النظر.",
+        "أحتاج إلى إجراء فحص النظر.",
+        "أين تقع عيادة النظر في المستشفى؟"
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "مستشفى"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.7463407000032021,
+      "failure": null
+    },
+    {
+      "group_id": "قلب",
+      "glosses": [
+        "قلب"
+      ],
+      "reference": "أرغب في مقابلة اختصاصي القلب.",
+      "first": "أريد التوجه إلى عيادة القلب.",
+      "candidates": [
+        "أريد التوجه إلى عيادة القلب.",
+        "أين تقع عيادة القلب؟",
+        "أين تقع عيادة القلب."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 5,
+      "latency_seconds": 0.740526299996418,
+      "failure": null
+    },
+    {
+      "group_id": "قلب|مستشفى",
+      "glosses": [
+        "قلب",
+        "مستشفى"
+      ],
+      "reference": "جئت إلى المستشفى لمراجعة القلب.",
+      "first": "أين تقع عيادة القلب في المستشفى؟",
+      "candidates": [
+        "أين تقع عيادة القلب في المستشفى؟",
+        "أين تقع عيادة القلب في المستشفى.",
+        "لدي سؤال إلى عيادة القلب في المستشفى."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 12,
+      "latency_seconds": 1.0306683000017074,
+      "failure": null
+    },
+    {
+      "group_id": "قلب|موعد",
+      "glosses": [
+        "موعد",
+        "قلب"
+      ],
+      "reference": "متى موعدي مع اختصاصي القلب؟",
+      "first": "أعاني من عيادة القلب.",
+      "candidates": [
+        "أعاني من عيادة القلب.",
+        "أريد التوجه إلى عيادة القلب.",
+        "أين تقع عيادة القلب في عيادة القلب؟"
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "موعد"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 1.205889600001683,
+      "failure": null
+    },
+    {
+      "group_id": "مختبر",
+      "glosses": [
+        "مختبر"
+      ],
+      "reference": "أحتاج إلى زيارة المختبر.",
+      "first": "أريد التوجه إلى المختبر.",
+      "candidates": [
+        "أريد التوجه إلى المختبر.",
+        "أين تقع المختبر؟",
+        "أريد التوجه إلى المختبر؟"
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 4,
+      "latency_seconds": 0.7045805999950971,
+      "failure": null
+    },
+    {
+      "group_id": "مختبر|مستشفى",
+      "glosses": [
+        "مختبر",
+        "مستشفى"
+      ],
+      "reference": "هل المختبر موجود في هذا المبنى؟",
+      "first": "أين تقع المختبر؟",
+      "candidates": [
+        "أين تقع المختبر؟",
+        "أين يقع المختبر؟",
+        "لدي طلب صرف المختبر؟"
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "مستشفى"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.9732220000005327,
+      "failure": null
+    },
+    {
+      "group_id": "مساعدة",
+      "glosses": [
+        "مساعدة"
+      ],
+      "reference": "أرجو أن تقدموا لي المساعدة.",
+      "first": "أحتاج إلى مساعدة.",
+      "candidates": [
+        "أحتاج إلى مساعدة."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 15,
+      "latency_seconds": 0.935628800005361,
+      "failure": null
+    },
+    {
+      "group_id": "مساعدة|مستشفى",
+      "glosses": [
+        "مساعدة",
+        "مستشفى"
+      ],
+      "reference": "ساعدني في الوصول إلى القسم المطلوب.",
+      "first": "أريد التوجه إلى المستشفى.",
+      "candidates": [
+        "أريد التوجه إلى المستشفى.",
+        "أريد من طلب التوجه إلى المستشفى.",
+        "أشعر بألم في المستشفى."
+      ],
+      "accepted": true,
+      "concept_preserved": false,
+      "missing": [
+        "مساعدة"
+      ],
+      "added": [],
+      "rejected_generations": 16,
+      "latency_seconds": 0.9646090000023833,
+      "failure": null
+    },
+    {
+      "group_id": "مستشفى",
+      "glosses": [
+        "مستشفى"
+      ],
+      "reference": "أحتاج إلى دخول المستشفى.",
+      "first": "أريد التوجه إلى المستشفى.",
+      "candidates": [
+        "أريد التوجه إلى المستشفى."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 14,
+      "latency_seconds": 0.6666149000011501,
+      "failure": null
+    },
+    {
+      "group_id": "موعد",
+      "glosses": [
+        "موعد"
+      ],
+      "reference": "متى يحين موعدي؟",
+      "first": "لدي موعد.",
+      "candidates": [
+        "لدي موعد.",
+        "أحتاج إلى موعد.",
+        "أريد موعد."
+      ],
+      "accepted": true,
+      "concept_preserved": true,
+      "missing": [],
+      "added": [],
+      "rejected_generations": 0,
+      "latency_seconds": 0.7635735000003478,
+      "failure": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "repo": "UBC-NLP/AraT5-msa-small",
+  "revision": "5c46ab988cba0cdb4358a218602801f25c29c6d5",
+  "files": [
+    {
+      "file": "config.json",
+      "sha256": "165a6ce4845ef2b25522a71b5639b962649d82a99a6762f637aa5f2d2265c088",
+      "bytes": 615
+    },
+    {
+      "file": "pytorch_model.bin",
+      "sha256": "4a535fe2fa92bbd67e6b5bb33df56697d993bd33db55b700f1a1d9027a0df26f",
+      "bytes": 452161420
+    },
+    {
+      "file": "spiece.model",
+      "sha256": "5c7ae4407451bf02b459edec774d0539a06615005dd34d5c85c5c06765ff1606",
+      "bytes": 2435308
+    },
+    {
+      "file": "special_tokens_map.json",
+      "sha256": "4720c0fddbe4c5991334f85ad7073d9bd0a294a8ba4641a2f8dab614ca825949",
+      "bytes": 1786
+    },
+    {
+      "file": "tokenizer_config.json",
+      "sha256": "39c0581eb752e5626d46e26a8e05d200cacc0031e0ac0a62ea173690a5ee6aeb",
+      "bytes": 1991
+    },
+    {
+      "file": "README.md",
+      "sha256": "2f84b7386b920b9f27cd645a60aa4dad684abcdb033578310af44dd8eaf48d94",
+      "bytes": 4287
+    }
+  ]
+}

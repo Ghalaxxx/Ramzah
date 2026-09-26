@@ -1,0 +1,68 @@
+{
+  "scope": "All locally extracted selected-class videos only",
+  "clips": 288,
+  "classes": {
+    "0088": 24,
+    "0092": 24,
+    "0100": 24,
+    "0101": 24,
+    "0103": 24,
+    "0108": 24,
+    "0109": 24,
+    "0110": 24,
+    "0115": 24,
+    "0116": 24,
+    "0129": 24,
+    "0132": 24
+  },
+  "signers": {
+    "01": 96,
+    "02": 96,
+    "03": 96
+  },
+  "distributions": {
+    "frames": {
+      "0": 26.0,
+      "25": 38.75,
+      "50": 48.5,
+      "75": 64.25,
+      "100": 109.0
+    },
+    "duration": {
+      "0": 0.8666666666666667,
+      "25": 1.2916666666666667,
+      "50": 1.6166666666666667,
+      "75": 2.1416666666666666,
+      "100": 3.6333333333333333
+    },
+    "fps": {
+      "0": 30.0,
+      "25": 30.0,
+      "50": 30.0,
+      "75": 30.0,
+      "100": 30.0
+    },
+    "width": {
+      "0": 1920.0,
+      "25": 1920.0,
+      "50": 1920.0,
+      "75": 1920.0,
+      "100": 1920.0
+    },
+    "height": {
+      "0": 1080.0,
+      "25": 1080.0,
+      "50": 1080.0,
+      "75": 1080.0,
+      "100": 1080.0
+    }
+  },
+  "corrupt": [],
+  "missing_labels": [],
+  "exact_duplicates": [],
+  "decoded_duplicates": [],
+  "repeated_label_strings": {},
+  "semantic_label_validation": "Not verified by a Saudi Sign Language expert; spreadsheet mapping only",
+  "near_duplicates": "Not exhaustively searched; same-session repetitions remain correlated",
+  "noise": "Decode and sharpness checks only; no claim of exhaustive human sign-quality review"
+}

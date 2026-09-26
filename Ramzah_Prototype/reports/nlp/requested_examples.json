@@ -1,0 +1,147 @@
+{
+  "checkpoint": "checkpoints/nlp/contextual_v3",
+  "trace": "recognized_words -> tokenizer -> fine-tuned T5 -> model.generate -> tokenizer.decode",
+  "requested_word_orders": [
+    {
+      "input_glosses": [
+        "موعد",
+        "قلب",
+        "اليوم"
+      ],
+      "model_input": "موعد قلب اليوم",
+      "model_generated": [
+        "لدي موعد اليوم في عيادة القلب.",
+        "لدي موعدي في عيادة القلب اليوم."
+      ],
+      "generation_method": "fine_tuned_seq2seq"
+    },
+    {
+      "input_glosses": [
+        "قلب",
+        "موعد",
+        "اليوم"
+      ],
+      "model_input": "قلب موعد اليوم",
+      "model_generated": [
+        "لدي موعد اليوم في عيادة القلب."
+      ],
+      "generation_method": "fine_tuned_seq2seq"
+    },
+    {
+      "input_glosses": [
+        "اليوم",
+        "موعد",
+        "قلب"
+      ],
+      "model_input": "اليوم موعد قلب",
+      "model_generated": [
+        "لدي موعد اليوم في عيادة القلب."
+      ],
+      "generation_method": "fine_tuned_seq2seq"
+    }
+  ],
+  "unseen_test_examples": [
+    {
+      "group_id": "تحليل طبي",
+      "input_glosses": [
+        "تحليل طبي"
+      ],
+      "reference": "أريد معرفة مكان إجراء الفحوصات.",
+      "model_generated": "أحتاج إلى إجراء تحليل طبي.",
+      "all_candidates": [
+        "أحتاج إلى إجراء تحليل طبي.",
+        "لدي طلب إجراء تحليل طبي.",
+        "لدي طلب تحليل طبي."
+      ],
+      "exact_pair_held_out_from_training": true
+    },
+    {
+      "group_id": "أشعة|مستشفى",
+      "input_glosses": [
+        "أشعة",
+        "مستشفى"
+      ],
+      "reference": "أريد التوجه إلى الأشعة في المستشفى.",
+      "model_generated": null,
+      "all_candidates": [],
+      "exact_pair_held_out_from_training": true
+    },
+    {
+      "group_id": "اليوم|فحص النظر|موعد",
+      "input_glosses": [
+        "اليوم",
+        "موعد",
+        "فحص النظر"
+      ],
+      "reference": "أين عيادة النظر؟ لدي موعد اليوم.",
+      "model_generated": "لدي موعد اليوم لفحص النظر.",
+      "all_candidates": [
+        "لدي موعد اليوم لفحص النظر.",
+        "أريد موعد اليوم لفحص النظر."
+      ],
+      "exact_pair_held_out_from_training": true
+    },
+    {
+      "group_id": "قلب|مستشفى",
+      "input_glosses": [
+        "قلب",
+        "مستشفى"
+      ],
+      "reference": "جئت إلى المستشفى لمراجعة القلب.",
+      "model_generated": "أين تقع عيادة القلب في المستشفى؟",
+      "all_candidates": [
+        "أين تقع عيادة القلب في المستشفى؟",
+        "لدي عيادة القلب في المستشفى.",
+        "أين تقع عيادة القلب في المستشفى."
+      ],
+      "exact_pair_held_out_from_training": true
+    },
+    {
+      "group_id": "ألم",
+      "input_glosses": [
+        "ألم"
+      ],
+      "reference": "أحتاج إلى طبيب بسبب الألم.",
+      "model_generated": "أشعر بألم.",
+      "all_candidates": [
+        "أشعر بألم."
+      ],
+      "exact_pair_held_out_from_training": true
+    },
+    {
+      "group_id": "انتظار|موعد",
+      "input_glosses": [
+        "موعد",
+        "انتظار"
+      ],
+      "reference": "طال وقت الانتظار رغم وجود موعد.",
+      "model_generated": null,
+      "all_candidates": [],
+      "exact_pair_held_out_from_training": true
+    },
+    {
+      "group_id": "صيدلية|مستشفى",
+      "input_glosses": [
+        "مستشفى",
+        "صيدلية"
+      ],
+      "reference": "هل توجد صيدلية في هذا المستشفى؟",
+      "model_generated": null,
+      "all_candidates": [],
+      "exact_pair_held_out_from_training": true
+    },
+    {
+      "group_id": "دواء|صيدلية",
+      "input_glosses": [
+        "دواء",
+        "صيدلية"
+      ],
+      "reference": "لدي وصفة دواء، أين الصيدلية؟",
+      "model_generated": "أحتاج إلى دوائي من الصيدلية.",
+      "all_candidates": [
+        "أحتاج إلى دوائي من الصيدلية."
+      ],
+      "exact_pair_held_out_from_training": true
+    }
+  ]
+}

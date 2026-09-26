@@ -1,0 +1,2512 @@
+{
+  "0001": {
+    "arabic_gloss": "0",
+    "original_label": "0",
+    "english": "0"
+  },
+  "0002": {
+    "arabic_gloss": "1",
+    "original_label": "1",
+    "english": "1"
+  },
+  "0003": {
+    "arabic_gloss": "2",
+    "original_label": "2",
+    "english": "2"
+  },
+  "0004": {
+    "arabic_gloss": "3",
+    "original_label": "3",
+    "english": "3"
+  },
+  "0005": {
+    "arabic_gloss": "4",
+    "original_label": "4",
+    "english": "4"
+  },
+  "0006": {
+    "arabic_gloss": "5",
+    "original_label": "5",
+    "english": "5"
+  },
+  "0007": {
+    "arabic_gloss": "6",
+    "original_label": "6",
+    "english": "6"
+  },
+  "0008": {
+    "arabic_gloss": "7",
+    "original_label": "7",
+    "english": "7"
+  },
+  "0009": {
+    "arabic_gloss": "8",
+    "original_label": "8",
+    "english": "8"
+  },
+  "0010": {
+    "arabic_gloss": "9",
+    "original_label": "9",
+    "english": "9"
+  },
+  "0011": {
+    "arabic_gloss": "10",
+    "original_label": "10",
+    "english": "10"
+  },
+  "0012": {
+    "arabic_gloss": "20",
+    "original_label": "20",
+    "english": "20"
+  },
+  "0013": {
+    "arabic_gloss": "30",
+    "original_label": "30",
+    "english": "30"
+  },
+  "0014": {
+    "arabic_gloss": "40",
+    "original_label": "40",
+    "english": "40"
+  },
+  "0015": {
+    "arabic_gloss": "50",
+    "original_label": "50",
+    "english": "50"
+  },
+  "0016": {
+    "arabic_gloss": "60",
+    "original_label": "60",
+    "english": "60"
+  },
+  "0017": {
+    "arabic_gloss": "70",
+    "original_label": "70",
+    "english": "70"
+  },
+  "0018": {
+    "arabic_gloss": "80",
+    "original_label": "80",
+    "english": "80"
+  },
+  "0019": {
+    "arabic_gloss": "90",
+    "original_label": "90",
+    "english": "90"
+  },
+  "0020": {
+    "arabic_gloss": "100",
+    "original_label": "100",
+    "english": "100"
+  },
+  "0021": {
+    "arabic_gloss": "200",
+    "original_label": "200",
+    "english": "200"
+  },
+  "0022": {
+    "arabic_gloss": "300",
+    "original_label": "300",
+    "english": "300"
+  },
+  "0023": {
+    "arabic_gloss": "400",
+    "original_label": "400",
+    "english": "400"
+  },
+  "0024": {
+    "arabic_gloss": "500",
+    "original_label": "500",
+    "english": "500"
+  },
+  "0025": {
+    "arabic_gloss": "600",
+    "original_label": "600",
+    "english": "600"
+  },
+  "0026": {
+    "arabic_gloss": "700",
+    "original_label": "700",
+    "english": "700"
+  },
+  "0027": {
+    "arabic_gloss": "800",
+    "original_label": "800",
+    "english": "800"
+  },
+  "0028": {
+    "arabic_gloss": "900",
+    "original_label": "900",
+    "english": "900"
+  },
+  "0029": {
+    "arabic_gloss": "1000",
+    "original_label": "1000",
+    "english": "1000"
+  },
+  "0030": {
+    "arabic_gloss": "1000000",
+    "original_label": "1000000",
+    "english": "1000000"
+  },
+  "0031": {
+    "arabic_gloss": "10000000",
+    "original_label": "10000000",
+    "english": "10000000"
+  },
+  "0032": {
+    "arabic_gloss": "ا",
+    "original_label": "ا",
+    "english": "alif"
+  },
+  "0033": {
+    "arabic_gloss": "ب",
+    "original_label": "ب",
+    "english": "baa"
+  },
+  "0034": {
+    "arabic_gloss": "ت",
+    "original_label": "ت",
+    "english": "ta"
+  },
+  "0035": {
+    "arabic_gloss": "ث",
+    "original_label": "ث",
+    "english": "tha"
+  },
+  "0036": {
+    "arabic_gloss": "ج",
+    "original_label": "ج",
+    "english": "Jiim"
+  },
+  "0037": {
+    "arabic_gloss": "ح",
+    "original_label": "ح",
+    "english": "Haa"
+  },
+  "0038": {
+    "arabic_gloss": "خ",
+    "original_label": "خ",
+    "english": "kha"
+  },
+  "0039": {
+    "arabic_gloss": "د",
+    "original_label": "د",
+    "english": "daal"
+  },
+  "0040": {
+    "arabic_gloss": "ذ",
+    "original_label": "ذ",
+    "english": "thal"
+  },
+  "0041": {
+    "arabic_gloss": "ر",
+    "original_label": "ر",
+    "english": "raa"
+  },
+  "0042": {
+    "arabic_gloss": "ز",
+    "original_label": "ز",
+    "english": "zay"
+  },
+  "0043": {
+    "arabic_gloss": "س",
+    "original_label": "س",
+    "english": "siin"
+  },
+  "0044": {
+    "arabic_gloss": "ش",
+    "original_label": "ش",
+    "english": "shiin"
+  },
+  "0045": {
+    "arabic_gloss": "ص",
+    "original_label": "ص",
+    "english": "Saad"
+  },
+  "0046": {
+    "arabic_gloss": "ض",
+    "original_label": "ض",
+    "english": "Daad"
+  },
+  "0047": {
+    "arabic_gloss": "ط",
+    "original_label": "ط",
+    "english": "Taa"
+  },
+  "0048": {
+    "arabic_gloss": "ظ",
+    "original_label": "ظ",
+    "english": "Zaa"
+  },
+  "0049": {
+    "arabic_gloss": "ع",
+    "original_label": "ع",
+    "english": "Ayn"
+  },
+  "0050": {
+    "arabic_gloss": "غ",
+    "original_label": "غ",
+    "english": "ghayn"
+  },
+  "0051": {
+    "arabic_gloss": "ف",
+    "original_label": "ف",
+    "english": "faa"
+  },
+  "0052": {
+    "arabic_gloss": "ق",
+    "original_label": "ق",
+    "english": "qaaf"
+  },
+  "0053": {
+    "arabic_gloss": "ك",
+    "original_label": "ك",
+    "english": "kaaf"
+  },
+  "0054": {
+    "arabic_gloss": "ل",
+    "original_label": "ل",
+    "english": "laam"
+  },
+  "0055": {
+    "arabic_gloss": "م",
+    "original_label": "م",
+    "english": "miim"
+  },
+  "0056": {
+    "arabic_gloss": "ن",
+    "original_label": "ن",
+    "english": "noon"
+  },
+  "0057": {
+    "arabic_gloss": "ه",
+    "original_label": "ه",
+    "english": "haa"
+  },
+  "0058": {
+    "arabic_gloss": "و",
+    "original_label": "و",
+    "english": "waaw"
+  },
+  "0059": {
+    "arabic_gloss": "ي",
+    "original_label": "ي",
+    "english": "yaa"
+  },
+  "0060": {
+    "arabic_gloss": "ة",
+    "original_label": "ة",
+    "english": "taa marbuuTa"
+  },
+  "0061": {
+    "arabic_gloss": "أ",
+    "original_label": "أ",
+    "english": "alif with hamza above"
+  },
+  "0062": {
+    "arabic_gloss": "ؤ",
+    "original_label": "ؤ",
+    "english": "Waaw with hamza"
+  },
+  "0063": {
+    "arabic_gloss": "ئ",
+    "original_label": "ئ",
+    "english": "Alif maqsoura with hamza"
+  },
+  "0064": {
+    "arabic_gloss": "ئـ",
+    "original_label": "ئـ",
+    "english": "hamza on line"
+  },
+  "0065": {
+    "arabic_gloss": "ء",
+    "original_label": "ء",
+    "english": "hamza"
+  },
+  "0066": {
+    "arabic_gloss": "إ",
+    "original_label": "إ",
+    "english": "alif with hamza below"
+  },
+  "0067": {
+    "arabic_gloss": "آ",
+    "original_label": "آ",
+    "english": "ALif with maad"
+  },
+  "0068": {
+    "arabic_gloss": "ى",
+    "original_label": "ى",
+    "english": "Alif maqsoura"
+  },
+  "0069": {
+    "arabic_gloss": "لا",
+    "original_label": "لا",
+    "english": "laam Alif"
+  },
+  "0070": {
+    "arabic_gloss": "ال",
+    "original_label": "ال",
+    "english": "Al"
+  },
+  "0071": {
+    "arabic_gloss": "هيكل عظمي",
+    "original_label": "هيكل عظمي",
+    "english": "Skeleton"
+  },
+  "0072": {
+    "arabic_gloss": "جمجة",
+    "original_label": "جمجة",
+    "english": "skull"
+  },
+  "0073": {
+    "arabic_gloss": "عمود فقري",
+    "original_label": "عمود فقري",
+    "english": "Backbone"
+  },
+  "0074": {
+    "arabic_gloss": "قفص صدري",
+    "original_label": "قفص صدري",
+    "english": "Chest"
+  },
+  "0075": {
+    "arabic_gloss": "جهاز تنفسي",
+    "original_label": "جهاز تنفسي",
+    "english": "Respiratory device"
+  },
+  "0076": {
+    "arabic_gloss": "قصبة هوائية",
+    "original_label": "قصبة هوائية",
+    "english": "Trachea"
+  },
+  "0077": {
+    "arabic_gloss": "رئتان",
+    "original_label": "رئتان",
+    "english": "lungs"
+  },
+  "0078": {
+    "arabic_gloss": "شهيق - زفير",
+    "original_label": "شهيق - زفير",
+    "english": "Ins and Outs"
+  },
+  "0079": {
+    "arabic_gloss": "جهاز هضمي",
+    "original_label": "جهاز هضمي",
+    "english": "digestive system"
+  },
+  "0080": {
+    "arabic_gloss": "وجه",
+    "original_label": "وجه",
+    "english": "Face"
+  },
+  "0081": {
+    "arabic_gloss": "بلعوم",
+    "original_label": "بلعوم",
+    "english": "pharynx"
+  },
+  "0082": {
+    "arabic_gloss": "كبد",
+    "original_label": "كبد",
+    "english": "liver"
+  },
+  "0083": {
+    "arabic_gloss": "البنكرياس",
+    "original_label": "البنكرياس",
+    "english": "pancreas"
+  },
+  "0084": {
+    "arabic_gloss": "الأمعاء الدقيقة",
+    "original_label": "الأمعاء الدقيقة",
+    "english": "Small intestine"
+  },
+  "0085": {
+    "arabic_gloss": "الأمعاء الغليظة",
+    "original_label": "الأمعاء الغليظة",
+    "english": "Large intestine"
+  },
+  "0086": {
+    "arabic_gloss": "الزائدة الدودية",
+    "original_label": "الزائدة الدودية",
+    "english": "Appendix"
+  },
+  "0087": {
+    "arabic_gloss": "جهاز عصبي",
+    "original_label": "جهاز عصبي",
+    "english": "nervous system"
+  },
+  "0088": {
+    "arabic_gloss": "قلب",
+    "original_label": "قلب",
+    "english": "heart"
+  },
+  "0089": {
+    "arabic_gloss": "حواس خمس",
+    "original_label": "حواس خمس",
+    "english": "five senses"
+  },
+  "0090": {
+    "arabic_gloss": "عضلة",
+    "original_label": "عضلة",
+    "english": "muscle"
+  },
+  "0091": {
+    "arabic_gloss": "أنسجة",
+    "original_label": "أنسجة",
+    "english": "tissue"
+  },
+  "0092": {
+    "arabic_gloss": "مستشفى",
+    "original_label": "مستشفى",
+    "english": "hospital"
+  },
+  "0093": {
+    "arabic_gloss": "إسعافات أولية",
+    "original_label": "إسعافات أولية",
+    "english": "first aid"
+  },
+  "0094": {
+    "arabic_gloss": "جرح نازف",
+    "original_label": "جرح نازف",
+    "english": "wound"
+  },
+  "0095": {
+    "arabic_gloss": "حروق",
+    "original_label": "حروق",
+    "english": "burning"
+  },
+  "0096": {
+    "arabic_gloss": "مخدر/ بنج",
+    "original_label": "مخدر/ بنج",
+    "english": "anesthetist"
+  },
+  "0097": {
+    "arabic_gloss": "عملية جراحية",
+    "original_label": "عملية جراحية",
+    "english": "surgery"
+  },
+  "0098": {
+    "arabic_gloss": "شاش / ضمادة",
+    "original_label": "شاش / ضمادة",
+    "english": "gauze"
+  },
+  "0099": {
+    "arabic_gloss": "شريط لاصق / بلاستر",
+    "original_label": "شريط لاصق / بلاستر",
+    "english": "adhesive tape"
+  },
+  "0100": {
+    "arabic_gloss": "صيدلية",
+    "original_label": "صيدلية",
+    "english": "pharmacy"
+  },
+  "0101": {
+    "arabic_gloss": "تحليل دم",
+    "original_label": "تحليل دم",
+    "english": "blood analysis"
+  },
+  "0102": {
+    "arabic_gloss": "فحص سريري",
+    "original_label": "فحص سريري",
+    "english": "physical examination"
+  },
+  "0103": {
+    "arabic_gloss": "فحص النظر",
+    "original_label": "فحص النظر",
+    "english": "sight examination"
+  },
+  "0104": {
+    "arabic_gloss": "ميزان حرارة",
+    "original_label": "ميزان حرارة",
+    "english": "thermometer"
+  },
+  "0105": {
+    "arabic_gloss": "سماعة أذن",
+    "original_label": "سماعة أذن",
+    "english": "stethoscope"
+  },
+  "0106": {
+    "arabic_gloss": "جهاز قياس الضغط",
+    "original_label": "جهاز قياس الضغط",
+    "english": "sphygmometroscope"
+  },
+  "0107": {
+    "arabic_gloss": "نبض القلب",
+    "original_label": "نبض القلب",
+    "english": "pulse"
+  },
+  "0108": {
+    "arabic_gloss": "تحليل طبي",
+    "original_label": "تحليل طبي",
+    "english": "analysis"
+  },
+  "0109": {
+    "arabic_gloss": "مختبر",
+    "original_label": "معمل التحاليل / مختبر",
+    "english": "analysis laboratory"
+  },
+  "0110": {
+    "arabic_gloss": "أشعة",
+    "original_label": "صورة اشعة",
+    "english": "ray photo"
+  },
+  "0111": {
+    "arabic_gloss": "التهاب",
+    "original_label": "التهاب",
+    "english": "inflammation"
+  },
+  "0112": {
+    "arabic_gloss": "تورم",
+    "original_label": "تورم",
+    "english": "swelling"
+  },
+  "0113": {
+    "arabic_gloss": "زكام",
+    "original_label": "زكام",
+    "english": "cold"
+  },
+  "0114": {
+    "arabic_gloss": "عدوى",
+    "original_label": "عدوى",
+    "english": "infection"
+  },
+  "0115": {
+    "arabic_gloss": "صداع",
+    "original_label": "صداع",
+    "english": "headache"
+  },
+  "0116": {
+    "arabic_gloss": "ألم",
+    "original_label": "ألم",
+    "english": "pain"
+  },
+  "0117": {
+    "arabic_gloss": "حمى",
+    "original_label": "حمى",
+    "english": "fever"
+  },
+  "0118": {
+    "arabic_gloss": "إسهال",
+    "original_label": "إسهال",
+    "english": "diarrhea"
+  },
+  "0119": {
+    "arabic_gloss": "إمساك",
+    "original_label": "إمساك",
+    "english": "constipation"
+  },
+  "0120": {
+    "arabic_gloss": "مغص",
+    "original_label": "مغص",
+    "english": "colic"
+  },
+  "0121": {
+    "arabic_gloss": "مرض السكر / سكري",
+    "original_label": "مرض السكر / سكري",
+    "english": "diabetes"
+  },
+  "0122": {
+    "arabic_gloss": "أزمة قلبية",
+    "original_label": "أزمة قلبية",
+    "english": "heart attack"
+  },
+  "0123": {
+    "arabic_gloss": "سرطان",
+    "original_label": "سرطان",
+    "english": "cancer"
+  },
+  "0124": {
+    "arabic_gloss": "مرض فقدان المناعة / الإيدز",
+    "original_label": "مرض فقدان المناعة / الإيدز",
+    "english": "Aids"
+  },
+  "0125": {
+    "arabic_gloss": "تساقط الشعر",
+    "original_label": "تساقط الشعر",
+    "english": "Loss of hair"
+  },
+  "0126": {
+    "arabic_gloss": "سكتة قلبية",
+    "original_label": "سكتة قلبية",
+    "english": "Heart failure"
+  },
+  "0127": {
+    "arabic_gloss": "شلل نصفي",
+    "original_label": "شلل نصفي",
+    "english": "hemiplegia"
+  },
+  "0128": {
+    "arabic_gloss": "شلل دماغي",
+    "original_label": "شلل دماغي",
+    "english": "Cerebral paralysis"
+  },
+  "0129": {
+    "arabic_gloss": "ضغط الدم",
+    "original_label": "ضغط الدم",
+    "english": "blood pressure"
+  },
+  "0130": {
+    "arabic_gloss": "حساسية",
+    "original_label": "حساسية",
+    "english": "allergy"
+  },
+  "0131": {
+    "arabic_gloss": "حكة / هرش",
+    "original_label": "حكة / هرش",
+    "english": "itch"
+  },
+  "0132": {
+    "arabic_gloss": "دواء",
+    "original_label": "دواء",
+    "english": "medicine"
+  },
+  "0133": {
+    "arabic_gloss": "دورة شهرية",
+    "original_label": "دورة شهرية",
+    "english": "monthly circulation"
+  },
+  "0134": {
+    "arabic_gloss": "مريض / مرض",
+    "original_label": "مريض / مرض",
+    "english": "sick"
+  },
+  "0135": {
+    "arabic_gloss": "كبسولة",
+    "original_label": "كبسولة",
+    "english": "capsule"
+  },
+  "0136": {
+    "arabic_gloss": "دواء شراب",
+    "original_label": "دواء شراب",
+    "english": "liquid medicine"
+  },
+  "0137": {
+    "arabic_gloss": "مرهم",
+    "original_label": "مرهم",
+    "english": "ointment"
+  },
+  "0138": {
+    "arabic_gloss": "قطارة",
+    "original_label": "قطارة",
+    "english": "dropper"
+  },
+  "0139": {
+    "arabic_gloss": "أخذ إبرة",
+    "original_label": "أخذ إبرة",
+    "english": "acupuncture"
+  },
+  "0140": {
+    "arabic_gloss": "تلقيح",
+    "original_label": "تلقيح",
+    "english": "pollination"
+  },
+  "0141": {
+    "arabic_gloss": "تطعيم",
+    "original_label": "تطعيم",
+    "english": "inoculation"
+  },
+  "0142": {
+    "arabic_gloss": "أشعة ليزر",
+    "original_label": "أشعة ليزر",
+    "english": "laser ray"
+  },
+  "0143": {
+    "arabic_gloss": "مخدرات",
+    "original_label": "مخدرات",
+    "english": "drug's"
+  },
+  "0144": {
+    "arabic_gloss": "إدمان",
+    "original_label": "إدمان",
+    "english": "addiction"
+  },
+  "0145": {
+    "arabic_gloss": "توحد / أوتيزم",
+    "original_label": "توحد / أوتيزم",
+    "english": "oneness"
+  },
+  "0146": {
+    "arabic_gloss": "منغولي",
+    "original_label": "منغولي",
+    "english": "mongoloid"
+  },
+  "0147": {
+    "arabic_gloss": "بكتريا",
+    "original_label": "بكتريا",
+    "english": "bacterium"
+  },
+  "0148": {
+    "arabic_gloss": "جرثومة",
+    "original_label": "جرثومة",
+    "english": "microbe"
+  },
+  "0149": {
+    "arabic_gloss": "فيروس",
+    "original_label": "فيروس",
+    "english": "virus"
+  },
+  "0150": {
+    "arabic_gloss": "إنتشار",
+    "original_label": "إنتشار",
+    "english": "spread"
+  },
+  "0151": {
+    "arabic_gloss": "إعاقة",
+    "original_label": "إعاقة",
+    "english": "hindrance"
+  },
+  "0152": {
+    "arabic_gloss": "إعاقة ذهنية",
+    "original_label": "إعاقة ذهنية",
+    "english": "mentality hindrance"
+  },
+  "0153": {
+    "arabic_gloss": "اعاقة جسدية",
+    "original_label": "اعاقة جسدية",
+    "english": "physical disability"
+  },
+  "0154": {
+    "arabic_gloss": "اعاقة بصرية",
+    "original_label": "اعاقة بصرية",
+    "english": "visual impairment"
+  },
+  "0155": {
+    "arabic_gloss": "إعاقة سمعية",
+    "original_label": "إعاقة سمعية",
+    "english": "hearing hindrance"
+  },
+  "0156": {
+    "arabic_gloss": "وباء",
+    "original_label": "وباء",
+    "english": "epidemic"
+  },
+  "0157": {
+    "arabic_gloss": "مناعة",
+    "original_label": "مناعة",
+    "english": "immunity"
+  },
+  "0158": {
+    "arabic_gloss": "عصب",
+    "original_label": "عصب",
+    "english": "nerve"
+  },
+  "0159": {
+    "arabic_gloss": "معافى",
+    "original_label": "معافى",
+    "english": "healthy"
+  },
+  "0160": {
+    "arabic_gloss": "يأكل",
+    "original_label": "يأكل",
+    "english": "eat"
+  },
+  "0161": {
+    "arabic_gloss": "يشرب",
+    "original_label": "يشرب",
+    "english": "drink"
+  },
+  "0162": {
+    "arabic_gloss": "ينام",
+    "original_label": "ينام",
+    "english": "sleep"
+  },
+  "0163": {
+    "arabic_gloss": "يستيقظ",
+    "original_label": "يستيقظ",
+    "english": "wake up"
+  },
+  "0164": {
+    "arabic_gloss": "يسمع",
+    "original_label": "يسمع",
+    "english": "hear"
+  },
+  "0165": {
+    "arabic_gloss": "يسكت",
+    "original_label": "يسكت",
+    "english": "silence"
+  },
+  "0166": {
+    "arabic_gloss": "يشم",
+    "original_label": "يشم",
+    "english": "inhale"
+  },
+  "0167": {
+    "arabic_gloss": "يصعد",
+    "original_label": "يصعد",
+    "english": "rise"
+  },
+  "0168": {
+    "arabic_gloss": "ينزل",
+    "original_label": "ينزل",
+    "english": "descend"
+  },
+  "0169": {
+    "arabic_gloss": "يفتح",
+    "original_label": "يفتح",
+    "english": "open"
+  },
+  "0170": {
+    "arabic_gloss": "يقفل ( يغلق )",
+    "original_label": "يقفل ( يغلق )",
+    "english": "close"
+  },
+  "0171": {
+    "arabic_gloss": "يبني",
+    "original_label": "يبني",
+    "english": "build"
+  },
+  "0172": {
+    "arabic_gloss": "يكسر",
+    "original_label": "يكسر",
+    "english": "break"
+  },
+  "0173": {
+    "arabic_gloss": "يمشي",
+    "original_label": "يمشي",
+    "english": "walk"
+  },
+  "0174": {
+    "arabic_gloss": "يحب",
+    "original_label": "يحب",
+    "english": "love"
+  },
+  "0175": {
+    "arabic_gloss": "يكره",
+    "original_label": "يكره",
+    "english": "hate"
+  },
+  "0176": {
+    "arabic_gloss": "يشوي",
+    "original_label": "يشوي",
+    "english": "grill"
+  },
+  "0177": {
+    "arabic_gloss": "يحرث",
+    "original_label": "يحرث",
+    "english": "plow"
+  },
+  "0178": {
+    "arabic_gloss": "يزرع",
+    "original_label": "يزرع",
+    "english": "plant"
+  },
+  "0179": {
+    "arabic_gloss": "يسقي",
+    "original_label": "يسقي",
+    "english": "irrigate"
+  },
+  "0180": {
+    "arabic_gloss": "يحصد",
+    "original_label": "يحصد",
+    "english": "harvest"
+  },
+  "0181": {
+    "arabic_gloss": "يفكر",
+    "original_label": "يفكر",
+    "english": "think"
+  },
+  "0182": {
+    "arabic_gloss": "يساعد",
+    "original_label": "يساعد",
+    "english": "help"
+  },
+  "0183": {
+    "arabic_gloss": "يدخن",
+    "original_label": "يدخن",
+    "english": "smoke"
+  },
+  "0184": {
+    "arabic_gloss": "يدعم",
+    "original_label": "يدعم",
+    "english": "support"
+  },
+  "0185": {
+    "arabic_gloss": "يختار",
+    "original_label": "يختار",
+    "english": "choose"
+  },
+  "0186": {
+    "arabic_gloss": "ينادي",
+    "original_label": "ينادي",
+    "english": "call"
+  },
+  "0187": {
+    "arabic_gloss": "يتنامى",
+    "original_label": "يتنامى",
+    "english": "grow"
+  },
+  "0188": {
+    "arabic_gloss": "يصبغ",
+    "original_label": "يصبغ",
+    "english": "dye"
+  },
+  "0189": {
+    "arabic_gloss": "يقف",
+    "original_label": "يقف",
+    "english": "stand"
+  },
+  "0190": {
+    "arabic_gloss": "يستحم",
+    "original_label": "يستحم",
+    "english": "bathe"
+  },
+  "0191": {
+    "arabic_gloss": "يدخل",
+    "original_label": "يدخل",
+    "english": "enter"
+  },
+  "0192": {
+    "arabic_gloss": "أسرة",
+    "original_label": "أسرة",
+    "english": "family"
+  },
+  "0193": {
+    "arabic_gloss": "جدة",
+    "original_label": "جدة",
+    "english": "grandmother"
+  },
+  "0194": {
+    "arabic_gloss": "جد",
+    "original_label": "جد",
+    "english": "grandfather"
+  },
+  "0195": {
+    "arabic_gloss": "أب",
+    "original_label": "أب",
+    "english": "father"
+  },
+  "0196": {
+    "arabic_gloss": "أم",
+    "original_label": "أم",
+    "english": "mother"
+  },
+  "0197": {
+    "arabic_gloss": "أخت",
+    "original_label": "أخت",
+    "english": "sister"
+  },
+  "0198": {
+    "arabic_gloss": "أخ",
+    "original_label": "أخ",
+    "english": "brother"
+  },
+  "0199": {
+    "arabic_gloss": "بنت",
+    "original_label": "بنت",
+    "english": "girl"
+  },
+  "0200": {
+    "arabic_gloss": "رضيع",
+    "original_label": "رضيع",
+    "english": "baby"
+  },
+  "0201": {
+    "arabic_gloss": "توأم",
+    "original_label": "توأم",
+    "english": "twin"
+  },
+  "0202": {
+    "arabic_gloss": "رجل",
+    "original_label": "رجل",
+    "english": "man"
+  },
+  "0203": {
+    "arabic_gloss": "شاب",
+    "original_label": "شاب",
+    "english": "young man"
+  },
+  "0204": {
+    "arabic_gloss": "شابة",
+    "original_label": "شابة",
+    "english": "young woman"
+  },
+  "0205": {
+    "arabic_gloss": "حفيد",
+    "original_label": "حفيد",
+    "english": "grandchild"
+  },
+  "0206": {
+    "arabic_gloss": "زواج",
+    "original_label": "زواج",
+    "english": "wedding"
+  },
+  "0207": {
+    "arabic_gloss": "حمل",
+    "original_label": "حمل",
+    "english": "pregnant"
+  },
+  "0208": {
+    "arabic_gloss": "ولادة",
+    "original_label": "ولادة",
+    "english": "childbirth"
+  },
+  "0209": {
+    "arabic_gloss": "عم",
+    "original_label": "عم",
+    "english": "uncle"
+  },
+  "0210": {
+    "arabic_gloss": "عمة",
+    "original_label": "عمة",
+    "english": "aunt"
+  },
+  "0211": {
+    "arabic_gloss": "خال",
+    "original_label": "خال",
+    "english": "maternal uncle"
+  },
+  "0212": {
+    "arabic_gloss": "خالة",
+    "original_label": "خالة",
+    "english": "maternal aunt"
+  },
+  "0213": {
+    "arabic_gloss": "ابن الأخ",
+    "original_label": "ابن الأخ",
+    "english": "nephew"
+  },
+  "0214": {
+    "arabic_gloss": "ابن الأخت",
+    "original_label": "ابن الأخت",
+    "english": "nephew"
+  },
+  "0215": {
+    "arabic_gloss": "ابن العم",
+    "original_label": "ابن العم",
+    "english": "cousin"
+  },
+  "0216": {
+    "arabic_gloss": "ابن",
+    "original_label": "ابن",
+    "english": "son"
+  },
+  "0217": {
+    "arabic_gloss": "ابنة",
+    "original_label": "ابنة",
+    "english": "daughter"
+  },
+  "0218": {
+    "arabic_gloss": "ناس",
+    "original_label": "ناس",
+    "english": "people"
+  },
+  "0219": {
+    "arabic_gloss": "طلاق",
+    "original_label": "طلاق",
+    "english": "divorce"
+  },
+  "0220": {
+    "arabic_gloss": "خطوبة",
+    "original_label": "خطوبة",
+    "english": "engagement"
+  },
+  "0221": {
+    "arabic_gloss": "حفلة",
+    "original_label": "حفلة",
+    "english": "party"
+  },
+  "0222": {
+    "arabic_gloss": "وفاة",
+    "original_label": "وفاة",
+    "english": "death"
+  },
+  "0223": {
+    "arabic_gloss": "طفل",
+    "original_label": "طفل",
+    "english": "child"
+  },
+  "0224": {
+    "arabic_gloss": "جميل",
+    "original_label": "جميل",
+    "english": "beautiful"
+  },
+  "0225": {
+    "arabic_gloss": "قبيح",
+    "original_label": "قبيح",
+    "english": "ugly"
+  },
+  "0226": {
+    "arabic_gloss": "طويل",
+    "original_label": "طويل",
+    "english": "long"
+  },
+  "0227": {
+    "arabic_gloss": "قصير",
+    "original_label": "قصير",
+    "english": "short"
+  },
+  "0228": {
+    "arabic_gloss": "نحيف",
+    "original_label": "نحيف",
+    "english": "thin"
+  },
+  "0229": {
+    "arabic_gloss": "سمين",
+    "original_label": "سمين",
+    "english": "fat"
+  },
+  "0230": {
+    "arabic_gloss": "غني",
+    "original_label": "غني",
+    "english": "rich"
+  },
+  "0231": {
+    "arabic_gloss": "فقير",
+    "original_label": "فقير",
+    "english": "poor"
+  },
+  "0232": {
+    "arabic_gloss": "محبط",
+    "original_label": "محبط",
+    "english": "offended"
+  },
+  "0233": {
+    "arabic_gloss": "مشمئز",
+    "original_label": "مشمئز",
+    "english": "disgusted"
+  },
+  "0234": {
+    "arabic_gloss": "مرتبك",
+    "original_label": "مرتبك",
+    "english": "confused"
+  },
+  "0235": {
+    "arabic_gloss": "قلق",
+    "original_label": "قلق",
+    "english": "worried"
+  },
+  "0236": {
+    "arabic_gloss": "مشوش",
+    "original_label": "مشوش",
+    "english": "deranged"
+  },
+  "0237": {
+    "arabic_gloss": "خائف",
+    "original_label": "خائف",
+    "english": "afraid"
+  },
+  "0238": {
+    "arabic_gloss": "سعيد (مسرور)",
+    "original_label": "سعيد (مسرور)",
+    "english": "happy"
+  },
+  "0239": {
+    "arabic_gloss": "حزين",
+    "original_label": "حزين",
+    "english": "sad"
+  },
+  "0240": {
+    "arabic_gloss": "شجاع",
+    "original_label": "شجاع",
+    "english": "courageous"
+  },
+  "0241": {
+    "arabic_gloss": "جبان",
+    "original_label": "جبان",
+    "english": "coward"
+  },
+  "0242": {
+    "arabic_gloss": "طموح",
+    "original_label": "طموح",
+    "english": "ambitious"
+  },
+  "0243": {
+    "arabic_gloss": "معجب",
+    "original_label": "معجب",
+    "english": "admirable"
+  },
+  "0244": {
+    "arabic_gloss": "غائر من",
+    "original_label": "غائر من",
+    "english": "to be jealous of"
+  },
+  "0245": {
+    "arabic_gloss": "غائر على",
+    "original_label": "غائر على",
+    "english": "to protect jealously"
+  },
+  "0246": {
+    "arabic_gloss": "ودود",
+    "original_label": "ودود",
+    "english": "affectionate"
+  },
+  "0247": {
+    "arabic_gloss": "كريم",
+    "original_label": "كريم",
+    "english": "generous"
+  },
+  "0248": {
+    "arabic_gloss": "بخيل",
+    "original_label": "بخيل",
+    "english": "miserly"
+  },
+  "0249": {
+    "arabic_gloss": "طماع",
+    "original_label": "طماع",
+    "english": "greedy"
+  },
+  "0250": {
+    "arabic_gloss": "كذاب",
+    "original_label": "كذاب",
+    "english": "liar"
+  },
+  "0251": {
+    "arabic_gloss": "أناني",
+    "original_label": "أناني",
+    "english": "selfish"
+  },
+  "0252": {
+    "arabic_gloss": "متكبر",
+    "original_label": "متكبر",
+    "english": "proud"
+  },
+  "0253": {
+    "arabic_gloss": "متواضع",
+    "original_label": "متواضع",
+    "english": "humble"
+  },
+  "0254": {
+    "arabic_gloss": "شعور",
+    "original_label": "شعور",
+    "english": "feeling"
+  },
+  "0255": {
+    "arabic_gloss": "تعب",
+    "original_label": "تعب",
+    "english": "tired"
+  },
+  "0256": {
+    "arabic_gloss": "بكاء",
+    "original_label": "بكاء",
+    "english": "crying"
+  },
+  "0257": {
+    "arabic_gloss": "احتقار",
+    "original_label": "احتقار",
+    "english": "contempt"
+  },
+  "0258": {
+    "arabic_gloss": "اعتماد على الذات",
+    "original_label": "اعتماد على الذات",
+    "english": "self-dependence"
+  },
+  "0259": {
+    "arabic_gloss": "خفيف",
+    "original_label": "خفيف",
+    "english": "light"
+  },
+  "0260": {
+    "arabic_gloss": "ثقيل",
+    "original_label": "ثقيل",
+    "english": "heavy"
+  },
+  "0261": {
+    "arabic_gloss": "قديم",
+    "original_label": "قديم",
+    "english": "old"
+  },
+  "0262": {
+    "arabic_gloss": "حسد",
+    "original_label": "حسد",
+    "english": "envy"
+  },
+  "0263": {
+    "arabic_gloss": "صدق",
+    "original_label": "صدق",
+    "english": "believe"
+  },
+  "0264": {
+    "arabic_gloss": "غدر",
+    "original_label": "غدر",
+    "english": "betrayal"
+  },
+  "0265": {
+    "arabic_gloss": "صبر",
+    "original_label": "صبر",
+    "english": "patient"
+  },
+  "0266": {
+    "arabic_gloss": "لوم",
+    "original_label": "لوم",
+    "english": "blame"
+  },
+  "0267": {
+    "arabic_gloss": "الحق",
+    "original_label": "الحق",
+    "english": "truth"
+  },
+  "0268": {
+    "arabic_gloss": "خيانة",
+    "original_label": "خيانة",
+    "english": "treason"
+  },
+  "0269": {
+    "arabic_gloss": "إيثار",
+    "original_label": "إيثار",
+    "english": "preference"
+  },
+  "0270": {
+    "arabic_gloss": "تضحية",
+    "original_label": "تضحية",
+    "english": "self sacrifice"
+  },
+  "0271": {
+    "arabic_gloss": "شفقة",
+    "original_label": "شفقة",
+    "english": "pity"
+  },
+  "0272": {
+    "arabic_gloss": "ذكي",
+    "original_label": "ذكي",
+    "english": "intelligent"
+  },
+  "0273": {
+    "arabic_gloss": "أمام",
+    "original_label": "أمام",
+    "english": "in front of"
+  },
+  "0274": {
+    "arabic_gloss": "بجانب",
+    "original_label": "بجانب",
+    "english": "side"
+  },
+  "0275": {
+    "arabic_gloss": "بعيد",
+    "original_label": "بعيد",
+    "english": "far"
+  },
+  "0276": {
+    "arabic_gloss": "بين",
+    "original_label": "بين",
+    "english": "between"
+  },
+  "0277": {
+    "arabic_gloss": "تحت",
+    "original_label": "تحت",
+    "english": "under"
+  },
+  "0278": {
+    "arabic_gloss": "حول",
+    "original_label": "حول",
+    "english": "around"
+  },
+  "0279": {
+    "arabic_gloss": "خارج",
+    "original_label": "خارج",
+    "english": "outside"
+  },
+  "0280": {
+    "arabic_gloss": "خلف",
+    "original_label": "خلف",
+    "english": "back"
+  },
+  "0281": {
+    "arabic_gloss": "داخل",
+    "original_label": "داخل",
+    "english": "inside"
+  },
+  "0282": {
+    "arabic_gloss": "فوق",
+    "original_label": "فوق",
+    "english": "up"
+  },
+  "0283": {
+    "arabic_gloss": "قريب",
+    "original_label": "قريب",
+    "english": "near"
+  },
+  "0284": {
+    "arabic_gloss": "من خلال",
+    "original_label": "من خلال",
+    "english": "through"
+  },
+  "0285": {
+    "arabic_gloss": "هنا",
+    "original_label": "هنا",
+    "english": "here"
+  },
+  "0286": {
+    "arabic_gloss": "هناك",
+    "original_label": "هناك",
+    "english": "there"
+  },
+  "0287": {
+    "arabic_gloss": "يسار",
+    "original_label": "يسار",
+    "english": "left"
+  },
+  "0288": {
+    "arabic_gloss": "يمين",
+    "original_label": "يمين",
+    "english": "right"
+  },
+  "0289": {
+    "arabic_gloss": "أهلا وسهلاً",
+    "original_label": "أهلا وسهلاً",
+    "english": "welcome"
+  },
+  "0290": {
+    "arabic_gloss": "السلام عليكم",
+    "original_label": "السلام عليكم",
+    "english": "greeting"
+  },
+  "0291": {
+    "arabic_gloss": "تفضل",
+    "original_label": "تفضل",
+    "english": "here you are"
+  },
+  "0292": {
+    "arabic_gloss": "جار",
+    "original_label": "جار",
+    "english": "neighbor"
+  },
+  "0293": {
+    "arabic_gloss": "شكراً",
+    "original_label": "شكراً",
+    "english": "thanks"
+  },
+  "0294": {
+    "arabic_gloss": "صديق",
+    "original_label": "صديق",
+    "english": "friend"
+  },
+  "0295": {
+    "arabic_gloss": "ضيف",
+    "original_label": "ضيف",
+    "english": "guest"
+  },
+  "0296": {
+    "arabic_gloss": "عدو",
+    "original_label": "عدو",
+    "english": "enemy"
+  },
+  "0297": {
+    "arabic_gloss": "عيب",
+    "original_label": "عيب",
+    "english": "fault"
+  },
+  "0298": {
+    "arabic_gloss": "هدية",
+    "original_label": "هدية",
+    "english": "gift"
+  },
+  "0299": {
+    "arabic_gloss": "بيت",
+    "original_label": "بيت",
+    "english": "house"
+  },
+  "0300": {
+    "arabic_gloss": "جدار",
+    "original_label": "جدار",
+    "english": "wall"
+  },
+  "0301": {
+    "arabic_gloss": "سقف",
+    "original_label": "سقف",
+    "english": "roof"
+  },
+  "0302": {
+    "arabic_gloss": "باب",
+    "original_label": "باب",
+    "english": "door"
+  },
+  "0303": {
+    "arabic_gloss": "شباك",
+    "original_label": "شباك",
+    "english": "window"
+  },
+  "0304": {
+    "arabic_gloss": "غرفة",
+    "original_label": "غرفة",
+    "english": "room"
+  },
+  "0305": {
+    "arabic_gloss": "غرفة نوم",
+    "original_label": "غرفة نوم",
+    "english": "bedroom"
+  },
+  "0306": {
+    "arabic_gloss": "سرير",
+    "original_label": "سرير",
+    "english": "bed"
+  },
+  "0307": {
+    "arabic_gloss": "مرتبة سرير ( حشية)",
+    "original_label": "مرتبة سرير ( حشية)",
+    "english": "mattress"
+  },
+  "0308": {
+    "arabic_gloss": "شرشف ( غطاء سرير)",
+    "original_label": "شرشف ( غطاء سرير)",
+    "english": "bedsheet"
+  },
+  "0309": {
+    "arabic_gloss": "وسادة ( مخدة)",
+    "original_label": "وسادة ( مخدة)",
+    "english": "pillow"
+  },
+  "0310": {
+    "arabic_gloss": "شماعة ( مشجب)",
+    "original_label": "شماعة ( مشجب)",
+    "english": "clothes rail"
+  },
+  "0311": {
+    "arabic_gloss": "خزانة ملابس",
+    "original_label": "خزانة ملابس",
+    "english": "wardrobe"
+  },
+  "0312": {
+    "arabic_gloss": "مطبخ",
+    "original_label": "مطبخ",
+    "english": "kitchen"
+  },
+  "0313": {
+    "arabic_gloss": "فرن غازي",
+    "original_label": "فرن غازي",
+    "english": "Oven"
+  },
+  "0314": {
+    "arabic_gloss": "بوتاغاز (طابخ)",
+    "original_label": "بوتاغاز (طابخ)",
+    "english": "cooker"
+  },
+  "0315": {
+    "arabic_gloss": "طبق ( صحن)",
+    "original_label": "طبق ( صحن)",
+    "english": "dish"
+  },
+  "0316": {
+    "arabic_gloss": "سكين",
+    "original_label": "سكين",
+    "english": "knife"
+  },
+  "0317": {
+    "arabic_gloss": "شوكة",
+    "original_label": "شوكة",
+    "english": "fork"
+  },
+  "0318": {
+    "arabic_gloss": "ملعقة",
+    "original_label": "ملعقة",
+    "english": "spoon"
+  },
+  "0319": {
+    "arabic_gloss": "فنجان",
+    "original_label": "فنجان",
+    "english": "cupful"
+  },
+  "0320": {
+    "arabic_gloss": "مجمد (فريزر)",
+    "original_label": "مجمد (فريزر)",
+    "english": "freezer"
+  },
+  "0321": {
+    "arabic_gloss": "كأس ( كوب)",
+    "original_label": "كأس ( كوب)",
+    "english": "cup"
+  },
+  "0322": {
+    "arabic_gloss": "حافظ حرارة ( ترمس)",
+    "original_label": "حافظ حرارة ( ترمس)",
+    "english": "thermos"
+  },
+  "0323": {
+    "arabic_gloss": "غرفة طعام",
+    "original_label": "غرفة طعام",
+    "english": "food room"
+  },
+  "0324": {
+    "arabic_gloss": "إبريق",
+    "original_label": "إبريق",
+    "english": "pitcher"
+  },
+  "0325": {
+    "arabic_gloss": "طاولة",
+    "original_label": "طاولة",
+    "english": "table"
+  },
+  "0326": {
+    "arabic_gloss": "كنكة ( دلة)",
+    "original_label": "كنكة ( دلة)",
+    "english": "dalah"
+  },
+  "0327": {
+    "arabic_gloss": "دورة مياه (حمام)",
+    "original_label": "دورة مياه (حمام)",
+    "english": "bathroom"
+  },
+  "0328": {
+    "arabic_gloss": "كرسي",
+    "original_label": "كرسي",
+    "english": "chair"
+  },
+  "0329": {
+    "arabic_gloss": "غسالة",
+    "original_label": "غسالة",
+    "english": "washing machine"
+  },
+  "0330": {
+    "arabic_gloss": "منشفة",
+    "original_label": "منشفة",
+    "english": "towel carpet"
+  },
+  "0331": {
+    "arabic_gloss": "سجادة (زربية)",
+    "original_label": "سجادة (زربية)",
+    "english": "carpet"
+  },
+  "0332": {
+    "arabic_gloss": "موكيت ( فرش أرضي) moquette",
+    "original_label": "موكيت ( فرش أرضي) moquette",
+    "english": "moquette"
+  },
+  "0333": {
+    "arabic_gloss": "ثريا (نجفة)",
+    "original_label": "ثريا (نجفة)",
+    "english": "chandelier"
+  },
+  "0334": {
+    "arabic_gloss": "مسجل",
+    "original_label": "مسجل",
+    "english": "cassette"
+  },
+  "0335": {
+    "arabic_gloss": "شريط كاست",
+    "original_label": "شريط كاست",
+    "english": "cassette tape"
+  },
+  "0336": {
+    "arabic_gloss": "تلفزيون (تلفاز)",
+    "original_label": "تلفزيون (تلفاز)",
+    "english": "television"
+  },
+  "0337": {
+    "arabic_gloss": "طبق هوائي (دش)",
+    "original_label": "طبق هوائي (دش)",
+    "english": "satellite"
+  },
+  "0338": {
+    "arabic_gloss": "شريط فيديو",
+    "original_label": "شريط فيديو",
+    "english": "video tape"
+  },
+  "0339": {
+    "arabic_gloss": "كاميرا فيديو",
+    "original_label": "كاميرا فيديو",
+    "english": "video camera"
+  },
+  "0340": {
+    "arabic_gloss": "كاميرا فوتوغرافية",
+    "original_label": "كاميرا فوتوغرافية",
+    "english": "photo camera"
+  },
+  "0341": {
+    "arabic_gloss": "هاتف ( تلفون)",
+    "original_label": "هاتف ( تلفون)",
+    "english": "telephone"
+  },
+  "0342": {
+    "arabic_gloss": "غرفة ضيوف",
+    "original_label": "غرفة ضيوف",
+    "english": "guests room"
+  },
+  "0343": {
+    "arabic_gloss": "فيديو",
+    "original_label": "فيديو",
+    "english": "video"
+  },
+  "0344": {
+    "arabic_gloss": "مبخرة",
+    "original_label": "مبخرة",
+    "english": "censer"
+  },
+  "0345": {
+    "arabic_gloss": "مدفأة",
+    "original_label": "مدفأة",
+    "english": "heater"
+  },
+  "0346": {
+    "arabic_gloss": "مفتاح",
+    "original_label": "مفتاح",
+    "english": "key"
+  },
+  "0347": {
+    "arabic_gloss": "مروحة",
+    "original_label": "مروحة",
+    "english": "fan"
+  },
+  "0348": {
+    "arabic_gloss": "تدفئة مركزية",
+    "original_label": "تدفئة مركزية",
+    "english": "central heater"
+  },
+  "0349": {
+    "arabic_gloss": "كهرباء",
+    "original_label": "كهرباء",
+    "english": "electrics"
+  },
+  "0350": {
+    "arabic_gloss": "مكيف",
+    "original_label": "مكيف",
+    "english": "air conditioner"
+  },
+  "0351": {
+    "arabic_gloss": "سلك كهربائي",
+    "original_label": "سلك كهربائي",
+    "english": "wire"
+  },
+  "0352": {
+    "arabic_gloss": "قابس كهربائي ( فيش)",
+    "original_label": "قابس كهربائي ( فيش)",
+    "english": "plug"
+  },
+  "0353": {
+    "arabic_gloss": "حقيبة سفر",
+    "original_label": "حقيبة سفر",
+    "english": "bag"
+  },
+  "0354": {
+    "arabic_gloss": "مكواة",
+    "original_label": "مكواة",
+    "english": "iron"
+  },
+  "0355": {
+    "arabic_gloss": "ميزان حرارة جوي",
+    "original_label": "ميزان حرارة جوي",
+    "english": "thermometer"
+  },
+  "0356": {
+    "arabic_gloss": "الله تعالى",
+    "original_label": "الله تعالى",
+    "english": "God"
+  },
+  "0357": {
+    "arabic_gloss": "محمد رسول الله",
+    "original_label": "محمد رسول الله",
+    "english": "Muhammad is the Messenger of Allah"
+  },
+  "0358": {
+    "arabic_gloss": "عيسى المسيح",
+    "original_label": "عيسى المسيح",
+    "english": "Essa Christ"
+  },
+  "0359": {
+    "arabic_gloss": "القرآن الكريم",
+    "original_label": "القرآن الكريم",
+    "english": "The Holy Quran"
+  },
+  "0360": {
+    "arabic_gloss": "الخلفاء الراشدون",
+    "original_label": "الخلفاء الراشدون",
+    "english": "Rightly Guided Caliphs"
+  },
+  "0361": {
+    "arabic_gloss": "السنة النبوية",
+    "original_label": "السنة النبوية",
+    "english": "Sunnah"
+  },
+  "0362": {
+    "arabic_gloss": "أركان الإسلام",
+    "original_label": "أركان الإسلام",
+    "english": "Pillars of Islam"
+  },
+  "0363": {
+    "arabic_gloss": "أركان الإيمان",
+    "original_label": "أركان الإيمان",
+    "english": "Pillars of Faith"
+  },
+  "0364": {
+    "arabic_gloss": "الشهادتين",
+    "original_label": "الشهادتين",
+    "english": "The two certificates"
+  },
+  "0365": {
+    "arabic_gloss": "يصلي / الصلاة",
+    "original_label": "يصلي / الصلاة",
+    "english": "pray"
+  },
+  "0366": {
+    "arabic_gloss": "الزكاة",
+    "original_label": "الزكاة",
+    "english": "zakat"
+  },
+  "0367": {
+    "arabic_gloss": "الصوم",
+    "original_label": "الصوم",
+    "english": "Fasting"
+  },
+  "0368": {
+    "arabic_gloss": "العمرة",
+    "original_label": "العمرة",
+    "english": "Umrah"
+  },
+  "0369": {
+    "arabic_gloss": "الحج",
+    "original_label": "الحج",
+    "english": "Pilgrimage"
+  },
+  "0370": {
+    "arabic_gloss": "ملائكة",
+    "original_label": "ملائكة",
+    "english": "Angels"
+  },
+  "0371": {
+    "arabic_gloss": "رسول",
+    "original_label": "رسول",
+    "english": "messenger"
+  },
+  "0372": {
+    "arabic_gloss": "يوم القيامة",
+    "original_label": "يوم القيامة",
+    "english": "Doomsday"
+  },
+  "0373": {
+    "arabic_gloss": "القضاء والقدر",
+    "original_label": "القضاء والقدر",
+    "english": "Fate and destiny"
+  },
+  "0374": {
+    "arabic_gloss": "أركان الصلاة",
+    "original_label": "أركان الصلاة",
+    "english": "Pillars of prayer"
+  },
+  "0375": {
+    "arabic_gloss": "خير",
+    "original_label": "خير",
+    "english": "Good"
+  },
+  "0376": {
+    "arabic_gloss": "النية",
+    "original_label": "النية",
+    "english": "Intention"
+  },
+  "0377": {
+    "arabic_gloss": "شر",
+    "original_label": "شر",
+    "english": "Evil"
+  },
+  "0378": {
+    "arabic_gloss": "طهارة",
+    "original_label": "طهارة",
+    "english": "purity"
+  },
+  "0379": {
+    "arabic_gloss": "مبطلات الصلاة",
+    "original_label": "مبطلات الصلاة",
+    "english": "Prayer invalidators"
+  },
+  "0380": {
+    "arabic_gloss": "تيمم",
+    "original_label": "تيمم",
+    "english": "tayammum"
+  },
+  "0381": {
+    "arabic_gloss": "يتوضأ / وضوء",
+    "original_label": "يتوضأ / وضوء",
+    "english": "ablution"
+  },
+  "0382": {
+    "arabic_gloss": "يؤذن",
+    "original_label": "يؤذن",
+    "english": "authorized"
+  },
+  "0383": {
+    "arabic_gloss": "مسح على الخفين",
+    "original_label": "مسح على الخفين",
+    "english": "Wipe on the slippers"
+  },
+  "0384": {
+    "arabic_gloss": "صلاة الفجر",
+    "original_label": "صلاة الفجر",
+    "english": "Al-fajr prayer"
+  },
+  "0385": {
+    "arabic_gloss": "صلاة الظهر",
+    "original_label": "صلاة الظهر",
+    "english": "Salat Aduher"
+  },
+  "0386": {
+    "arabic_gloss": "صلاة العصر",
+    "original_label": "صلاة العصر",
+    "english": "Asr prayer"
+  },
+  "0387": {
+    "arabic_gloss": "صلاة المغرب",
+    "original_label": "صلاة المغرب",
+    "english": "Maghreb's prayer"
+  },
+  "0388": {
+    "arabic_gloss": "صلاة العشاء",
+    "original_label": "صلاة العشاء",
+    "english": "eshaa pray"
+  },
+  "0389": {
+    "arabic_gloss": "خطبة",
+    "original_label": "خطبة",
+    "english": "speech"
+  },
+  "0390": {
+    "arabic_gloss": "خطبة الجمعة",
+    "original_label": "خطبة الجمعة",
+    "english": "Friday sermon"
+  },
+  "0391": {
+    "arabic_gloss": "خطيب",
+    "original_label": "خطيب",
+    "english": "Fiance"
+  },
+  "0392": {
+    "arabic_gloss": "خطبة العيد",
+    "original_label": "خطبة العيد",
+    "english": "Eid sermon"
+  },
+  "0393": {
+    "arabic_gloss": "مسجد",
+    "original_label": "مسجد",
+    "english": "Mosque"
+  },
+  "0394": {
+    "arabic_gloss": "سورة",
+    "original_label": "سورة",
+    "english": "surah"
+  },
+  "0395": {
+    "arabic_gloss": "إمام",
+    "original_label": "إمام",
+    "english": "Before"
+  },
+  "0396": {
+    "arabic_gloss": "سورة الفاتحة",
+    "original_label": "سورة الفاتحة",
+    "english": "Al-Fatihah"
+  },
+  "0397": {
+    "arabic_gloss": "آية",
+    "original_label": "آية",
+    "english": "any"
+  },
+  "0398": {
+    "arabic_gloss": "ليلة القدر",
+    "original_label": "ليلة القدر",
+    "english": "Night of Power"
+  },
+  "0399": {
+    "arabic_gloss": "عيد",
+    "original_label": "عيد",
+    "english": "Feast"
+  },
+  "0400": {
+    "arabic_gloss": "عيد الفطر",
+    "original_label": "عيد الفطر",
+    "english": "Eid al-Fitr"
+  },
+  "0401": {
+    "arabic_gloss": "عيد الأضحى",
+    "original_label": "عيد الأضحى",
+    "english": "Eid al-Adha"
+  },
+  "0402": {
+    "arabic_gloss": "إحرام",
+    "original_label": "إحرام",
+    "english": "Ihram"
+  },
+  "0403": {
+    "arabic_gloss": "مكة",
+    "original_label": "مكة",
+    "english": "Mecca"
+  },
+  "0404": {
+    "arabic_gloss": "الكعبة",
+    "original_label": "الكعبة",
+    "english": "Kaaba"
+  },
+  "0405": {
+    "arabic_gloss": "المدينة المنورة",
+    "original_label": "المدينة المنورة",
+    "english": "Medina"
+  },
+  "0406": {
+    "arabic_gloss": "منى",
+    "original_label": "منى",
+    "english": "Mona"
+  },
+  "0407": {
+    "arabic_gloss": "جبل عرفات",
+    "original_label": "جبل عرفات",
+    "english": "Arafat Mountain"
+  },
+  "0408": {
+    "arabic_gloss": "الصفا والمروة",
+    "original_label": "الصفا والمروة",
+    "english": "Safa and Marwa"
+  },
+  "0409": {
+    "arabic_gloss": "مزدلفة",
+    "original_label": "مزدلفة",
+    "english": "Muzdalifah"
+  },
+  "0410": {
+    "arabic_gloss": "رمي الجمرات",
+    "original_label": "رمي الجمرات",
+    "english": "Throwing pebbles"
+  },
+  "0411": {
+    "arabic_gloss": "طواف",
+    "original_label": "طواف",
+    "english": "circumambulation"
+  },
+  "0412": {
+    "arabic_gloss": "ماء زمزم",
+    "original_label": "ماء زمزم",
+    "english": "Zamzam water"
+  },
+  "0413": {
+    "arabic_gloss": "الأضحية",
+    "original_label": "الأضحية",
+    "english": "the sacrifice"
+  },
+  "0414": {
+    "arabic_gloss": "فك الإحرام",
+    "original_label": "فك الإحرام",
+    "english": "break the ihram"
+  },
+  "0415": {
+    "arabic_gloss": "طواف الوداع",
+    "original_label": "طواف الوداع",
+    "english": "farewell circumambulation"
+  },
+  "0416": {
+    "arabic_gloss": "المسجد الأقصى",
+    "original_label": "المسجد الأقصى",
+    "english": "Al-Aqsa Mosque"
+  },
+  "0417": {
+    "arabic_gloss": "يسبح",
+    "original_label": "يسبح",
+    "english": "swim"
+  },
+  "0418": {
+    "arabic_gloss": "الحمد لله",
+    "original_label": "الحمد لله",
+    "english": "Thank God"
+  },
+  "0419": {
+    "arabic_gloss": "سبحان الله",
+    "original_label": "سبحان الله",
+    "english": "How great is our God"
+  },
+  "0420": {
+    "arabic_gloss": "إيمان",
+    "original_label": "إيمان",
+    "english": "Faith"
+  },
+  "0421": {
+    "arabic_gloss": "الشرك بالله",
+    "original_label": "الشرك بالله",
+    "english": "Polytheism"
+  },
+  "0422": {
+    "arabic_gloss": "أعوذ بالله",
+    "original_label": "أعوذ بالله",
+    "english": "I seek refuge in God"
+  },
+  "0423": {
+    "arabic_gloss": "شيطان",
+    "original_label": "شيطان",
+    "english": "Satan"
+  },
+  "0424": {
+    "arabic_gloss": "جن",
+    "original_label": "جن",
+    "english": "genie"
+  },
+  "0425": {
+    "arabic_gloss": "الضالون",
+    "original_label": "الضالون",
+    "english": "the lost"
+  },
+  "0426": {
+    "arabic_gloss": "المغضوب عليهم",
+    "original_label": "المغضوب عليهم",
+    "english": "angered them"
+  },
+  "0427": {
+    "arabic_gloss": "صنم",
+    "original_label": "صنم",
+    "english": "fetish"
+  },
+  "0428": {
+    "arabic_gloss": "زنى",
+    "original_label": "زنى",
+    "english": "fornication"
+  },
+  "0429": {
+    "arabic_gloss": "الجنة",
+    "original_label": "الجنة",
+    "english": "the Paradise"
+  },
+  "0430": {
+    "arabic_gloss": "النار",
+    "original_label": "النار",
+    "english": "fire"
+  },
+  "0431": {
+    "arabic_gloss": "روح",
+    "original_label": "روح",
+    "english": "spirit"
+  },
+  "0432": {
+    "arabic_gloss": "حقوق",
+    "original_label": "حقوق",
+    "english": "rights"
+  },
+  "0433": {
+    "arabic_gloss": "واجبات",
+    "original_label": "واجبات",
+    "english": "Duties"
+  },
+  "0434": {
+    "arabic_gloss": "حسنات",
+    "original_label": "حسنات",
+    "english": "Deeds"
+  },
+  "0435": {
+    "arabic_gloss": "سيئات",
+    "original_label": "سيئات",
+    "english": "sins"
+  },
+  "0436": {
+    "arabic_gloss": "حلال",
+    "original_label": "حلال",
+    "english": "halal"
+  },
+  "0437": {
+    "arabic_gloss": "حرام",
+    "original_label": "حرام",
+    "english": "forbidden"
+  },
+  "0438": {
+    "arabic_gloss": "مغفرة",
+    "original_label": "مغفرة",
+    "english": "forgiveness"
+  },
+  "0439": {
+    "arabic_gloss": "دين",
+    "original_label": "دين",
+    "english": "religion"
+  },
+  "0440": {
+    "arabic_gloss": "مسيحي",
+    "original_label": "مسيحي",
+    "english": "Christian"
+  },
+  "0441": {
+    "arabic_gloss": "يهودي",
+    "original_label": "يهودي",
+    "english": "Jewish"
+  },
+  "0442": {
+    "arabic_gloss": "كنيسة",
+    "original_label": "كنيسة",
+    "english": "church"
+  },
+  "0443": {
+    "arabic_gloss": "إسراء ومعراج",
+    "original_label": "إسراء ومعراج",
+    "english": "Isra and Miraj"
+  },
+  "0444": {
+    "arabic_gloss": "حواء",
+    "original_label": "حواء",
+    "english": "Eve"
+  },
+  "0445": {
+    "arabic_gloss": "آدم",
+    "original_label": "آدم",
+    "english": "Adam"
+  },
+  "0446": {
+    "arabic_gloss": "صدقة",
+    "original_label": "صدقة",
+    "english": "charity"
+  },
+  "0447": {
+    "arabic_gloss": "نبي",
+    "original_label": "نبي",
+    "english": "Prophet"
+  },
+  "0448": {
+    "arabic_gloss": "هداية",
+    "original_label": "هداية",
+    "english": "guidance"
+  },
+  "0449": {
+    "arabic_gloss": "أمانة",
+    "original_label": "أمانة",
+    "english": "honesty"
+  },
+  "0450": {
+    "arabic_gloss": "شهيد",
+    "original_label": "شهيد",
+    "english": "martyr"
+  },
+  "0451": {
+    "arabic_gloss": "حقوق الوالدين",
+    "original_label": "حقوق الوالدين",
+    "english": "Parental rights"
+  },
+  "0452": {
+    "arabic_gloss": "عقوق الوالدين",
+    "original_label": "عقوق الوالدين",
+    "english": "Disobedience to parents"
+  },
+  "0453": {
+    "arabic_gloss": "مسلم",
+    "original_label": "مسلم",
+    "english": "Muslim"
+  },
+  "0454": {
+    "arabic_gloss": "رحمة",
+    "original_label": "رحمة",
+    "english": "Mercy"
+  },
+  "0455": {
+    "arabic_gloss": "عيد رأس السنة",
+    "original_label": "عيد رأس السنة",
+    "english": "New Year's Holiday"
+  },
+  "0456": {
+    "arabic_gloss": "فروض",
+    "original_label": "فروض",
+    "english": "homework"
+  },
+  "0457": {
+    "arabic_gloss": "قبة الصخرة",
+    "original_label": "قبة الصخرة",
+    "english": "Dome of the Rock"
+  },
+  "0458": {
+    "arabic_gloss": "خلق",
+    "original_label": "خلق",
+    "english": "Create"
+  },
+  "0459": {
+    "arabic_gloss": "مهندس",
+    "original_label": "مهندس",
+    "english": "engineer"
+  },
+  "0460": {
+    "arabic_gloss": "مصور فوتوغرافي",
+    "original_label": "مصور فوتوغرافي",
+    "english": "photographer"
+  },
+  "0461": {
+    "arabic_gloss": "جزار / قصاب",
+    "original_label": "جزار / قصاب",
+    "english": "Meat man"
+  },
+  "0462": {
+    "arabic_gloss": "سائق",
+    "original_label": "سائق",
+    "english": "driver"
+  },
+  "0463": {
+    "arabic_gloss": "صائغ",
+    "original_label": "صائغ",
+    "english": "jeweler"
+  },
+  "0464": {
+    "arabic_gloss": "خادم",
+    "original_label": "خادم",
+    "english": "servant"
+  },
+  "0465": {
+    "arabic_gloss": "رئيس قسم",
+    "original_label": "رئيس قسم",
+    "english": "chairman"
+  },
+  "0466": {
+    "arabic_gloss": "حداد",
+    "original_label": "حداد",
+    "english": "blacksmith"
+  },
+  "0467": {
+    "arabic_gloss": "لحام كهربائي",
+    "original_label": "لحام كهربائي",
+    "english": "weld"
+  },
+  "0468": {
+    "arabic_gloss": "مترجم لغة الإشارة",
+    "original_label": "مترجم لغة الإشارة",
+    "english": "Sign language translator"
+  },
+  "0469": {
+    "arabic_gloss": "مذيع",
+    "original_label": "مذيع",
+    "english": "announcer"
+  },
+  "0470": {
+    "arabic_gloss": "مترجم لغات",
+    "original_label": "مترجم لغات",
+    "english": "translator"
+  },
+  "0471": {
+    "arabic_gloss": "مدير",
+    "original_label": "مدير",
+    "english": "manager"
+  },
+  "0472": {
+    "arabic_gloss": "سفير",
+    "original_label": "سفير",
+    "english": "ambassador"
+  },
+  "0473": {
+    "arabic_gloss": "وزير",
+    "original_label": "وزير",
+    "english": "minister"
+  },
+  "0474": {
+    "arabic_gloss": "ملك / سلطان",
+    "original_label": "ملك / سلطان",
+    "english": "King"
+  },
+  "0475": {
+    "arabic_gloss": "أمير البلاد / رئيس الجمهورية",
+    "original_label": "أمير البلاد / رئيس الجمهورية",
+    "english": "Premier Minister"
+  },
+  "0476": {
+    "arabic_gloss": "شيخ",
+    "original_label": "شيخ",
+    "english": "sheikh"
+  },
+  "0477": {
+    "arabic_gloss": "محافظ / وال",
+    "original_label": "محافظ / وال",
+    "english": "governor"
+  },
+  "0478": {
+    "arabic_gloss": "ولي عهد / وكيل وزارة",
+    "original_label": "ولي عهد / وكيل وزارة",
+    "english": "under secretary of state"
+  },
+  "0479": {
+    "arabic_gloss": "رئيس مجلس الشعب (النواب)",
+    "original_label": "رئيس مجلس الشعب (النواب)",
+    "english": "speaker"
+  },
+  "0480": {
+    "arabic_gloss": "أمين عام",
+    "original_label": "أمين عام",
+    "english": "general secretary"
+  },
+  "0481": {
+    "arabic_gloss": "صحفي",
+    "original_label": "صحفي",
+    "english": "journalist"
+  },
+  "0482": {
+    "arabic_gloss": "رسام",
+    "original_label": "رسام",
+    "english": "draftsman"
+  },
+  "0483": {
+    "arabic_gloss": "خياط / تارزي",
+    "original_label": "خياط / تارزي",
+    "english": "tailor"
+  },
+  "0484": {
+    "arabic_gloss": "ضابط",
+    "original_label": "ضابط",
+    "english": "policeman"
+  },
+  "0485": {
+    "arabic_gloss": "طيار",
+    "original_label": "طيار",
+    "english": "pilot"
+  },
+  "0486": {
+    "arabic_gloss": "جندي",
+    "original_label": "جندي",
+    "english": "soldier"
+  },
+  "0487": {
+    "arabic_gloss": "حلاق",
+    "original_label": "حلاق",
+    "english": "barber"
+  },
+  "0488": {
+    "arabic_gloss": "صباغ",
+    "original_label": "صباغ",
+    "english": "dyer"
+  },
+  "0489": {
+    "arabic_gloss": "رجل إطفاء / دفاع مدني",
+    "original_label": "رجل إطفاء / دفاع مدني",
+    "english": "fireman"
+  },
+  "0490": {
+    "arabic_gloss": "نجار",
+    "original_label": "نجار",
+    "english": "carpenter"
+  },
+  "0491": {
+    "arabic_gloss": "معلم / مدرس",
+    "original_label": "معلم / مدرس",
+    "english": "teacher"
+  },
+  "0492": {
+    "arabic_gloss": "طباخ",
+    "original_label": "طباخ",
+    "english": "chef"
+  },
+  "0493": {
+    "arabic_gloss": "فلاح",
+    "original_label": "فلاح",
+    "english": "farmer"
+  },
+  "0494": {
+    "arabic_gloss": "موظف",
+    "original_label": "موظف",
+    "english": "agent"
+  },
+  "0495": {
+    "arabic_gloss": "أمين صندوق",
+    "original_label": "أمين صندوق",
+    "english": "treasurer"
+  },
+  "0496": {
+    "arabic_gloss": "صيدلي",
+    "original_label": "صيدلي",
+    "english": "pharmacist"
+  },
+  "0497": {
+    "arabic_gloss": "طبيب",
+    "original_label": "طبيب",
+    "english": "doctor"
+  },
+  "0498": {
+    "arabic_gloss": "ممرضة",
+    "original_label": "ممرضة",
+    "english": "nurse"
+  },
+  "0499": {
+    "arabic_gloss": "ممرض",
+    "original_label": "ممرض",
+    "english": "orderly"
+  },
+  "0500": {
+    "arabic_gloss": "محام",
+    "original_label": "محام",
+    "english": "lawyer"
+  },
+  "0501": {
+    "arabic_gloss": "انتقال",
+    "original_label": "انتقال",
+    "english": "traveling"
+  },
+  "0502": {
+    "arabic_gloss": "تعيين",
+    "original_label": "تعيين",
+    "english": "appointment"
+  }
+}

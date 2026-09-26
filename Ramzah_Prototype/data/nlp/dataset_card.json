@@ -1,0 +1,20 @@
+{
+  "counts": {
+    "train": 606,
+    "validation": 50,
+    "test": 50
+  },
+  "groups": {
+    "train": 50,
+    "validation": 50,
+    "test": 50
+  },
+  "seed": 42,
+  "split_key": "exact (gloss order, target) pair; test uses held-out order for multi-gloss groups",
+  "target_design": "context-specific manually authored Arabic with multiple natural realizations",
+  "caveats": [
+    "Synthetic examples",
+    "No Deaf-user or clinician validation",
+    "Gloss sequences may remain pragmatically ambiguous"
+  ]
+}

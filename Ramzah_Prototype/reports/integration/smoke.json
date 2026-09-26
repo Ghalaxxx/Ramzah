@@ -1,0 +1,131 @@
+{
+  "samples": [
+    "data/cv/raw/03/0116/03_03_0116_(18_12_16_18_29_04)_c.mp4",
+    "data/cv/raw/03/0100/03_03_0100_(18_12_16_17_34_49)_c.mp4",
+    "data/cv/raw/03/0088/03_03_0088_(15_12_16_17_22_23)_c.mp4"
+  ],
+  "reviewed_glosses": [
+    "ألم",
+    "صيدلية",
+    "قلب"
+  ],
+  "cv_predictions": [
+    {
+      "prediction": "ألم",
+      "confidence": 0.9999842643737793,
+      "top_k": [
+        {
+          "word": "ألم",
+          "class_id": "0116",
+          "confidence": 0.9999842643737793
+        },
+        {
+          "word": "صداع",
+          "class_id": "0115",
+          "confidence": 1.535859701107256e-05
+        },
+        {
+          "word": "أشعة",
+          "class_id": "0110",
+          "confidence": 3.112675415195554e-07
+        }
+      ],
+      "needs_review": false,
+      "confidence_kind": "temperature_scaled_softmax",
+      "quality": {
+        "decoded_frames": 44,
+        "frames": 32,
+        "fps": 30.0,
+        "pose_fraction": 1.0,
+        "hand_fraction": 1.0
+      },
+      "glosses": [
+        "ألم"
+      ]
+    },
+    {
+      "prediction": "صيدلية",
+      "confidence": 1.0,
+      "top_k": [
+        {
+          "word": "صيدلية",
+          "class_id": "0100",
+          "confidence": 1.0
+        },
+        {
+          "word": "ضغط الدم",
+          "class_id": "0129",
+          "confidence": 7.661047352058858e-10
+        },
+        {
+          "word": "مستشفى",
+          "class_id": "0092",
+          "confidence": 1.252548212993495e-18
+        }
+      ],
+      "needs_review": false,
+      "confidence_kind": "temperature_scaled_softmax",
+      "quality": {
+        "decoded_frames": 49,
+        "frames": 32,
+        "fps": 30.0,
+        "pose_fraction": 1.0,
+        "hand_fraction": 1.0
+      },
+      "glosses": [
+        "ألم",
+        "صيدلية"
+      ]
+    },
+    {
+      "prediction": "قلب",
+      "confidence": 1.0,
+      "top_k": [
+        {
+          "word": "قلب",
+          "class_id": "0088",
+          "confidence": 1.0
+        },
+        {
+          "word": "تحليل دم",
+          "class_id": "0101",
+          "confidence": 1.651964291271915e-14
+        },
+        {
+          "word": "دواء",
+          "class_id": "0132",
+          "confidence": 3.811223091809499e-18
+        }
+      ],
+      "needs_review": false,
+      "confidence_kind": "temperature_scaled_softmax",
+      "quality": {
+        "decoded_frames": 47,
+        "frames": 32,
+        "fps": 30.0,
+        "pose_fraction": 1.0,
+        "hand_fraction": 0.71875
+      },
+      "glosses": [
+        "ألم",
+        "صيدلية",
+        "قلب"
+      ]
+    }
+  ],
+  "candidates": [
+    "أحتاج إلى معلومات عن الألم والصيدلية والقلب.",
+    "لدي استفسار عن الألم والصيدلية والقلب.",
+    "أود الاستفسار عن الألم والصيدلية والقلب."
+  ],
+  "confirmed": {
+    "sentence": "أحتاج إلى معلومات عن الألم والصيدلية والقلب.",
+    "glosses": [
+      "ألم",
+      "صيدلية",
+      "قلب"
+    ],
+    "source": "model_candidate"
+  },
+  "speech_bytes": 167980
+}

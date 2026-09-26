@@ -1,0 +1,16 @@
+{
+  "temperature": 0.43566423654556274,
+  "threshold": 0.9999740123748779,
+  "threshold_validation": {
+    "n": 48,
+    "correct": 48,
+    "wilson_lower": 0.9258973488472576
+  },
+  "seed": 42,
+  "train_clips": 144,
+  "validation_clips": 48,
+  "seconds": 189.11349150002934,
+  "upstream_checkpoint": "tinh2312/SignBart-KArSL-ALL-502",
+  "independence": "Signer 03 excluded from adaptation; upstream ALL training exposure unknown. NOT clean signer-independent evaluation.",
+  "preprocessing": "MediaPipe Holistic Tasks 1.0.1; 32 uniformly sampled native frames; 75 xy landmarks; per-part normalization"
+}
