@@ -1,5 +1,8 @@
 # Ramzah
 
+
+<img width="297" height="261" alt="image" src="https://github.com/user-attachments/assets/a344a51d-305e-44e4-a2fc-ab5278d94b49" />
+
 Ramzah is a research prototype that converts isolated Saudi sign-language videos into reviewed Arabic sentences and speech for hospital reception. The submitted system keeps the supplied clean interface and connects it to local computer-vision, Arabic NLP, and text-to-speech models.
 
 ## Project structure
@@ -102,7 +105,12 @@ Isolated sign video
 → employee display
 → Arabic MMS text-to-speech
 ```
+## Workflow
 
+<img width="1280" height="364" alt="image" src="https://github.com/user-attachments/assets/865d797f-16c4-4b8c-9562-2d6dc2cf9cf4" />
+
+
+  
 ## Verification
 
 ```powershell
@@ -116,6 +124,7 @@ cd ..\Ramzah_Interface_Clean
 pnpm.cmd exec tsc --noEmit
 pnpm.cmd build
 ```
+
 
 ## Limitations
 
