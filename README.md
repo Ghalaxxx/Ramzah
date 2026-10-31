@@ -8,7 +8,7 @@ Ramzah is a research prototype that converts isolated Saudi sign-language videos
 
 ## Meet the Team
 
-Origin was developed collaboratively by a team of Artificial Intelligence students.
+Ramzah was developed collaboratively by a team of Artificial Intelligence students.
 
 | Team Member | GitHub |
 | --- | --- |
