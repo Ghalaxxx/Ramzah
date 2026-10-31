@@ -5,12 +5,20 @@
 
 Ramzah is a research prototype that converts isolated Saudi sign-language videos into reviewed Arabic sentences and speech for hospital reception. The submitted system keeps the supplied clean interface and connects it to local computer-vision, Arabic NLP, and text-to-speech models.
 
-## Team Members
 
-- **Rahaf Saadeddin**
-- **Maram Mohammed Alhajri**
-- **Renad Bandar Hazazi**
-- **Ghala Mohammed Hazazi**
+## Meet the Team
+
+Origin was developed collaboratively by a team of Artificial Intelligence students.
+
+| Team Member | GitHub |
+| --- | --- |
+| Rahaf Saadeddin | [@soyrahaf](https://github.com/soyrahaf) |
+| Maram Alhajri | [@vmmci](https://github.com/vmmci) |
+| Renad Hazazi | [@RENADBHAI](https://github.com/RENADBHAI) |
+| Ghala Hazazi | [@Ghalaxxx](https://github.com/Ghalaxxx) |
+
+---
+
   
 ## Project structure
 
